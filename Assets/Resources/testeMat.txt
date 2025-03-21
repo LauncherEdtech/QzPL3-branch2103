@@ -1,0 +1,32 @@
+[
+    {
+        "materia": "Matemática",
+        "topico": "Geometria Espacial",
+        "subtopico": "Prismas",
+        "vestibular": "Enem",
+        "question": "(Enem PPL 2022) Um novo produto, denominado bolo de caneca no micro-ondas, foi lançado no mercado com o objetivo de atingir ao público que não tem muito tempo para cozinhar. Para prepará-lo, uma pessoa tem à sua disposição duas opções de canecas, apresentadas na figura.\r\n\r\n\t\t\t\t\t\t \r\n\r\n\t\t\t\t\t A caneca A tem formato de um prisma reto regular hexagonal de lado L = 4 cm, e a caneca B tem formato de um cilindro circular reto de diâmetro d = 6 cm. Sabe-se que ambas têm a mesma altura h = 10 cm, e que essa pessoa escolherá a caneca com maior capacidade. Considere π = 3,1 e π = 1,7\r\n\r\n\t\t\t\t\t  A medida da capacidade, em centímetro cúbico, da caneca escolhida é",
+        "image": "https://projetoagathaquestoes.com.br/imagens/provas-enem/matematica-pos/2022-2/149-enem-ppl-2022-um-novo-produto-denominado-bolo-de-caneca-no-micro-ondas-foi-lancado-no-mercado-com-o-objetivo.webp",
+        "answerA": "186",
+        "answerB": "279",
+        "answerC": "408",
+        "answerD": "816",
+        "answerE": "1 116",
+        "correctAnswer": "C",
+        "correctAnswermessage": "Para determinar a capacidade de cada caneca e descobrir qual delas tem maior capacidade, precisamos calcular o volume de cada uma.\n\nComeçaremos pela caneca A, que tem formato de um prisma reto regular hexagonal. A fórmula para o cálculo do volume de um prisma é área da base multiplicada pela altura.\n\n1. **Caneca A (prisma hexagonal):**\n   - Área da base: Para um prisma hexagonal regular, a área da base pode ser calculada como: 3 × (√3 / 2) × L², onde L é o lado do hexágono.\n     Neste caso, L = 4 cm\n     Área da base = 3 × (√3 / 2) × 4² = 3√3 × 8 = 24√3 cm²\n   \n   - Volume: Volume = área da base × altura\n     Volume = 24√3 × 10 = 240√3 cm³ ≈ 415,08 cm³ \n\nAgora, vamos calcular o volume da caneca B, que tem formato de um cilindro circular reto.\n\n2. **Caneca B (cilindro):**\n   - Raio do cilindro: raio = diâmetro / 2 = 6 cm / 2 = 3 cm\n\n   - Volume: Volume de um cilindro = π × raio² × altura\n     Volume = π × 3² × 10 = 90π cm³ ≈ 150,66 cm³\n\nPortanto, a caneca A tem uma capacidade de aproximadamente 415,08 cm³ e a caneca B tem capacidade de aproximadamente 150,66 cm³. Como a pessoa irá escolher a caneca com maior capacidade, a caneca escolhida será a caneca A.\n\nAssim, a resposta correta é a alternativa C: 408."
+    },
+    {
+        "materia": "Matemática",
+        "topico": "Geometria Espacial",
+        "subtopico": "Prismas",
+        "vestibular": "Enem",
+        "question": "(Enem PPL 2021) Um inseto percorreu sobre a superfície de um objeto, em formato de um prisma reto ABCDEFGH, com base retangular, uma trajetória poligonal, com vértices nos pontos: A-X-Y-G-F-E-X-G-E, na ordem em que foram apresentados.\r\n\r\n\t\t\t\t\t\t \r\n\r\n\t\t\t\t\t  É necessário representar a projeção ortogonal do trajeto percorrido pelo inseto sobre o plano determinado pela base do prisma.\r\n\r\n\r\n\r\n\t\t\t\t\t  A representação da projeção ortogonal do trajeto percorrido pelo inseto é",
+        "image": "https://projetoagathaquestoes.com.br/imagens/provas-enem/matematica-pos/2021-2/141-enem-ppl-2021-um-inseto-percorreu-sobre-a-superficie-de-um-objeto-em-formato-de-um-prisma-reto-abcdefgh-com-base-retangular-uma.webp",
+        "answerA": "",
+        "answerB": "",
+        "answerC": "",
+        "answerD": "",
+        "answerE": "",
+        "correctAnswer": "D",
+        "correctAnswermessage": "A representação da projeção ortogonal do trajeto percorrido pelo inseto sobre o plano determinado pela base do prisma é a alternativa D. A projeção ortogonal consiste em representar as projeções dos pontos do objeto sobre um plano, mantendo as distâncias e as direções corretas.\n\nNa projeção ortogonal do trajeto percorrido pelo inseto, observe que os pontos A-X-Y-G-F-E-X-G-E estão projetados sobre a base do prisma, formando uma figura que segue a mesma sequência de vértices. A projeção ortogonal desses pontos forma uma trajetória poligonal que respeita a ordem em que foram apresentados, mantendo a mesma sequência de vértices.\n\nAssim, a alternativa D é a correta, pois representa de forma precisa a projeção ortogonal do trajeto percorrido pelo inseto sobre o plano determinado pela base do prisma, respeitando a ordem dos vértices e mantendo a fidelidade da trajetória."
+    }
+]

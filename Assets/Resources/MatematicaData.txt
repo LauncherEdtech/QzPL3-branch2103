@@ -1,0 +1,2290 @@
+[
+{
+"question": "(Enem Digital 2020) Em um país, as infrações de trânsito são
+classificadas de acordo com sua gravidade. Infrações dos tipos leves e médias
+acrescentam, respectivamente, 3 e 4 pontos na carteira de habilitação do infrator,
+além de multas a serem pagas. Um motorista cometeu 5 infrações de trânsito. Em
+consequência teve 17 pontos acrescentados em sua carteira de habilitação.
+Qual é a razão entre o número de infrações do tipo leve e o número de infrações do
+tipo média cometidas por esse motorista?",
+"answerA": "1/4",
+"answerB": "3/2",
+"answerC": "3/4",
+"answerD": "5/17",
+"answerE": "7/17",
+"correctAnswer": "B",
+"correctAnswermessage": "Vamos chamar o número de infrações leves de L e o
+número de infrações médias de M. Sabemos que:
+1. L + M = 5 (o número total de infrações)
+2. 3L + 4M = 17 (o número total de pontos)
+Podemos resolver esse sistema de equações para encontrar os valores de L e M.
+Se subtrairmos 3 vezes a primeira equação da segunda, obtemos M = 2.
+Substituindo M na primeira equação, obtemos L = 3.
+Portanto, a razão entre o número de infrações leves e médias é
+L/M=3/2.",
+"image": "",
+},
+{
+"question": " (Enem Digital 2020) Os tempos gastos por três alunos para resolver
+um mesmo exercício de matemática foram: 3,25 minutos; 3,4 minutos e 191
+segundos.
+O tempo gasto a mais, em segundo, pelo aluno que concluiu por último a resolução
+do exercício, em relação ao primeiro que o finalizou, foi igual a",
+"answerA": "13.",
+"answerB": "14.",
+"answerC": "15.",
+"answerD": "21.",
+"answerE": "29.",
+"correctAnswer": "A",
+"correctAnswermessage": "Primeiro, vamos converter todos os tempos para a
+mesma unidade, que é segundos. Sabemos que 1 minuto é igual a 60 segundos.
+● O primeiro aluno levou 3,25 minutos, que é igual a
+3,25×60=1953,25×60=195
+segundos.
+● O segundo aluno levou 3,4 minutos, que é igual a
+3,4×60=2043,4×60=204
+segundos.
+● O terceiro aluno levou 191 segundos.
+O aluno que concluiu por último levou 204 segundos e o primeiro que finalizou levou
+191 segundos. Portanto, o tempo gasto a mais pelo aluno que concluiu por último é
+204−191=13204−191=13
+segundos. Portanto, a resposta correta é 13.",
+"image": "",
+},
+{
+"question": "(Enem PPL 2019) Alguns modelos de rádios automotivos estão
+protegidos por um código de segurança. Para ativar o sistema de áudio, deve-se
+digitar o código secreto composto por quatro algarismos. No primeiro caso de erro
+na digitação, a pessoa deve esperar 60 segundos para digitar o código novamente.
+O tempo de espera duplica, em relação ao tempo de espera anterior, a cada
+digitação errada. Uma pessoa conseguiu ativar o rádio somente na quarta tentativa,
+sendo de 30 segundos o tempo gasto para digitação do código secreto a cada
+tentativa. Nos casos da digitação incorreta, ela iniciou a nova tentativa
+imediatamente após a liberação do sistema de espera.
+O tempo total, em segundo, gasto por essa pessoa para ativar o rádio foi igual a",
+"answerA": "300.",
+"answerB": "420.",
+"answerC": "540.",
+"answerD": "660.",
+"answerE": "1 020.",
+"correctAnswer": "C",
+"correctAnswermessage": "Vamos calcular o tempo total gasto pela pessoa para
+ativar o rádio.
+● Na primeira tentativa, ela digitou o código incorretamente e gastou 30
+segundos.
+● Depois disso, ela teve que esperar 60 segundos antes de tentar novamente.
+● Na segunda tentativa, ela digitou o código incorretamente novamente e
+gastou mais 30 segundos.
+● O tempo de espera agora duplica para 120 segundos.
+● Na terceira tentativa, ela digitou o código incorretamente mais uma vez e
+gastou mais 30 segundos.
+● O tempo de espera agora duplica novamente para 240 segundos.
+● Finalmente, na quarta tentativa, ela digitou o código corretamente e gastou
+mais 30 segundos.
+Portanto, o tempo total gasto é
+30+60+30+120+30+240+30=54030+60+30+120+30+240+30=540
+segundos. Portanto, a resposta correta é 540.",
+"image": "",
+},
+{
+"question": "(Enem 2018) A prefeitura de um pequeno município do interior decide
+colocar postes para iluminação ao longa de uma estrada retilínea, que inicia em
+uma praça central e termina numa fazenda na zona rural. Como a praça já possui
+iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100
+metros, o terceiro, a 120 metros, e a assim sucessivamente, mantendo-se sempre
+uma distância de vinte metros entre os postes, até que o último poste seja colocado
+a uma distância de 1 380 metros da praça.
+Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior
+valor que poderá gastar com a colocação desses postes é",
+"answerA": "R$ 512 000, 00",
+"answerB": "R$ 520 000, 00",
+"answerC": "R$ 528 000, 00",
+"answerD": "R$ 552 000, 00",
+"answerE": "R$ 584 000, 00",
+"correctAnswer": "C",
+"correctAnswermessage": "A distância entre os postes é uma progressão
+aritmética com o primeiro termo a1 = 80 metros, a razão r = 20 metros e o último
+termo an = 1380 metros. Podemos encontrar o número de postes usando a fórmula
+do último termo de uma progressão aritmética:
+an=a1+(n−1)∗r
+Substituindo os valores conhecidos, temos:
+1380=80+(n−1)∗20
+Resolvendo para n, encontramos n = 66. Portanto, serão colocados 66 postes.
+Se cada poste custa R$ 8.000,00, então o custo total será
+66∗R$8.000,00=R$528.000,00
+. Portanto, a resposta correta é R$ 528.000,00.",
+"image": "",
+},
+{
+"question": " (Enem PPL 2016) O gerente de um estacionamento, próximo a um
+grande aeroporto, sabe que um passageiro que utiliza seu carro nos traslados
+casa-aeroporto-casa gasta cerca de R$ 10,00 em combustível nesse trajeto. Ele
+sabe, também, que um passageiro que não utiliza seu carro nos traslados
+casa-aeroporto-casa gasta cerca de R$ 80,00 com transporte. Suponha que os
+passageiros que utilizam seus próprios veículos deixem seus carros nesse
+estacionamento por um período de dois dias.
+Para tornar atrativo a esses passageiros o uso do estacionamento, o valor, em real,
+cobrado por dia de estacionamento deve ser, no máximo, de",
+"answerA": "35,00.",
+"answerB": "40,00.",
+"answerC": "45,00.",
+"answerD": "70,00.",
+"answerE": "90,00.",
+"correctAnswer": "A",
+"correctAnswermessage": "Para resolver essa questão, precisamos considerar o
+custo total para os passageiros que utilizam seus próprios veículos e comparamos
+com o custo para aqueles que não utilizam.
+Se um passageiro utiliza seu próprio veículo, ele gasta R$ 10,00 em combustível.
+Se ele deixa seu carro no estacionamento por dois dias, o custo total seria o custo
+do combustível mais duas vezes a taxa diária do estacionamento. Vamos chamar a
+taxa diária do estacionamento de x. Portanto, o custo total seria 10 + 2x.
+Por outro lado, se um passageiro não utiliza seu próprio veículo, ele gasta R$ 80,00
+em transporte.
+Para tornar atrativo o uso do estacionamento, o custo total para os passageiros que
+utilizam seus próprios veículos (ou seja, 10 + 2x) deve ser menor ou igual ao custo
+para aqueles que não utilizam (ou seja, R$ 80,00). Portanto, temos a seguinte
+inequação:
+10+2x ≤ 80
+Subtraindo 10 de ambos os lados, obtemos:
+2x ≤ 70
+Dividindo ambos os lados por 2, obtemos:
+x ≤ 35
+Portanto, para tornar atrativo a esses passageiros o uso do estacionamento, o valor
+cobrado por dia de estacionamento deve ser, no máximo, de R$ 35,00. Então a
+resposta correta é 35,00.",
+"image": "",
+},
+{
+"question": "(Enem PPL 2016) Um banco de sangue recebe 450 mL de sangue de
+cada doador. Após separar o plasma sanguíneo das hemácias, o primeiro é
+armazenado em bolsas de 250 mL de capacidade. O banco de sangue aluga
+refrigeradores de uma empresa para estocagem das bolsas de plasma, segundo a
+sua necessidade. Cada refrigerador tem uma capacidade de estocagem de 50
+bolsas. Ao longo de uma semana, 100 pessoas doaram sangue àquele banco.
+Admita que, de cada 60 mL de sangue, extraem-se 40 mL de plasma
+O número mínimo de congeladores que o banco precisou alugar, para estocar todas
+as bolsas de plasma dessa semana, foi",
+"answerA": "2.",
+"answerB": "3.",
+"answerC": "4.",
+"answerD": "6.",
+"answerE": "8",
+"correctAnswer": "B",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular a
+quantidade total de plasma que foi coletada e quantos refrigeradores são
+necessários para armazená-lo.
+Primeiro, vamos calcular a quantidade total de plasma coletado. Sabemos que de
+cada 60 mL de sangue, extraem-se 40 mL de plasma. Portanto, a proporção de
+plasma em relação ao sangue é de 40/60 = 2/3. Como cada doador doa 450 mL de
+sangue, a quantidade de plasma que pode ser extraída de cada doador é de 450 *
+2/3 = 300 mL.
+Como o banco recebeu doações de 100 pessoas ao longo da semana, a quantidade
+total de plasma coletado é de 100 * 300 = 30.000 mL ou 30 L.
+Cada bolsa tem capacidade para 250 mL ou 0,25 L. Portanto, o número total de
+bolsas necessárias para armazenar todo o plasma é de 30 / 0,25 = 120 bolsas.
+Cada refrigerador tem capacidade para armazenar 50 bolsas. Portanto, o número
+mínimo de refrigeradores que o banco precisou alugar é de 120 / 50 = 2,4. Como
+não é possível alugar uma fração de um refrigerador, o banco precisou alugar pelo
+menos 3 refrigeradores.
+Portanto, a resposta correta é 3.",
+"image": "",
+},
+{
+"question": "(Enem 2015) Um paciente precisa ser submetido a um tratamento,
+sob orientação médica, com determinado medicamento. Há cinco possibilidades de
+medicação, variando a dosagem e o intervalo de ingestão do medicamento. As
+opções apresentadas são:
+A: um comprimido de 400 mg, de 3 em 3 horas, durante 1 semana;
+B: um comprimido de 400 mg, de 4 em 4 horas, durante 10 dias;
+C: um comprimido de 400 mg, de 6 em 6 horas, durante 2 semanas;
+D: um comprimido de 500 mg, de 8 em 8 horas, durante 10 dias;
+E: um comprimido de 500 mg, de 12 em 12 horas, durante 2 semanas.
+Para evitar efeitos colaterais e intoxicação, a recomendação é que a quantidade
+total de massa da medicação ingerida, em miligramas, seja a menor possível.
+Seguindo a recomendação, deve ser escolhida a opção",
+"answerA": "A.",
+"answerB": "B.",
+"answerC": "C.",
+"answerD": "D.",
+"answerE": "E.",
+"correctAnswer": "E",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular a
+quantidade total de medicação ingerida para cada opção e escolher a que resulta na
+menor quantidade. Vamos considerar que um dia tem 24 horas.
+A: Um comprimido de 400 mg a cada 3 horas durante 1 semana resulta em
+400×(24/3)×7=22400 mg.
+B: Um comprimido de 400 mg a cada 4 horas durante 10 dias resulta em
+400×(24/4)×10=24000 mg.
+C: Um comprimido de 400 mg a cada 6 horas durante 2 semanas resulta em
+400×(24/6)/×14=22400 mg.
+D: Um comprimido de 500 mg a cada 8 horas durante 10 dias resulta em
+500×(24/8)×10=15000 mg.
+E: Um comprimido de 500 mg a cada 12 horas durante 2 semanas resulta em
+500×(24/12)×14=14000mg.
+Portanto, seguindo a recomendação de que a quantidade total de massa da
+medicação ingerida seja a menor possível, deve ser escolhida a opção E.",
+"image": "",
+},
+{
+"question": "(Enem 2014) Um executivo sempre viaja entre as cidades A e B, que
+estão localizadas em fusos horários distintos. O tempo de duração da viagem de
+avião entre as duas cidades é de 6 horas. Ele sempre pega um voo que sai de A às
+15h e chega à cidade B às 18h (respectivos horários locais). Certo dia, ao chegar à
+cidade B, soube que precisava estar de volta à cidade A, no máximo, até as 13h do
+dia seguinte (horário local de A). Para que o executivo chegue à cidade A no horário
+correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade
+B, em horário local de B, no máximo à(s)",
+"answerA": "16h.",
+"answerB": "10h.",
+"answerC": "7h.",
+"answerD": "4h.",
+"answerE": "1h.",
+"correctAnswer": "D",
+"correctAnswermessage": "Para resolver essa questão, precisamos considerar a
+diferença de fuso horário entre as cidades A e B e o tempo de voo.
+Sabemos que o voo de A para B sai às 15h (horário local de A) e chega às 18h
+(horário local de B). Portanto, a diferença de fuso horário entre as cidades A e B é
+de 3 horas, com a cidade B estando 3 horas atrás da cidade A.
+O executivo precisa estar de volta à cidade A até as 13h do dia seguinte (horário
+local de A). Considerando a diferença de fuso horário, isso corresponde às 10h do
+dia seguinte no horário local de B.
+Como o tempo de voo é de 6 horas, o executivo precisa pegar um voo saindo da
+cidade B no máximo 6 horas antes das 10h do dia seguinte no horário local de B.
+Portanto, ele deve pegar um voo saindo da cidade B, em horário local de B, no
+máximo às 4h.
+Portanto, a resposta correta é 4h.",
+"image": "",
+},
+{
+"question": "A disparidade de volume entre os planetas é tão grande que seria
+possível colocá-los uns dentro dos outros. O planeta Mercúrio é o menor de todos.
+Marte é o segundo menor: dentro dele cabem três Mercúrios. Terra é o único com
+vida: dentro dela cabem sete Martes. Netuno e o quarto maior: dentro dele cabem
+58 Terras.
+Júpiter é o maior dos planetas: dentro dele cabem 23 Netunos. Revista Veja. Ano 41, nº. 26, 25 jun.
+2008 (adaptado)
+Seguindo o raciocínio proposto, quantas Terras cabem dentro de Júpiter?",
+"answerA": "406",
+"answerB": "1 334",
+"answerC": "4 002",
+"answerD": "9 338",
+"answerE": "9 338",
+"correctAnswer": "B",
+"correctAnswermessage": "Para resolver essa questão, precisamos seguir o
+raciocínio proposto e calcular quantas Terras cabem dentro de Júpiter.
+Primeiro, sabemos que dentro de Netuno cabem 58 Terras. Como dentro de Júpiter
+cabem 23 Netunos, então dentro de Júpiter cabem
+23×58=133423×58=1334
+Terras.
+Portanto, seguindo o raciocínio proposto, 1334 Terras cabem dentro de Júpiter.
+Então a resposta correta é 1 334.",
+"image": "",
+},
+{
+"question": "Durante a Segunda Guerra Mundial, para decifrarem as mensagens
+secretas, foi utilizada a técnica de decomposição em fatores primos. Um número N
+é dado pela expressão 2x.5y.7z, na qual x, y e z são números inteiros não
+negativos. Sabe-se que N é múltiplo de 10 e não é múltiplo de 7.
+O número de divisores de N, diferentes de N, é",
+"answerA": "X . y . z",
+"answerB": "(X+ 1 ) . (y + 1 )",
+"answerC": "X . y . z - 1",
+"answerD": "(X + 1 ) • ( y + 1 ) • z",
+"answerE": "( x + 1 ) ( y + 1 ) • ( z + 1 ) - 1",
+"correctAnswer": "E",
+"correctAnswermessage": "Para resolver essa questão, precisamos entender
+como calcular o número de divisores de um número.
+Se um número N é dado pela expressão
+2 . .
+𝑋
+5
+𝑌
+7
+𝑍
+, o número total de divisores de N é dado pela expressão
+(x+1) (y+1) (z+1)
+. Isso ocorre porque cada divisor de N deve ter todos os seus fatores primos em
+2 . .
+𝑋
+5
+𝑌
+7
+𝑍
+e o expoente de cada fator primo em seu divisor deve ser menor ou igual ao
+correspondente em N.
+No entanto, a questão pede o número de divisores de N que são diferentes de N.
+Como N é um divisor de si mesmo, precisamos subtrair 1 do total para excluir N.
+Portanto, o número de divisores de N, diferentes de N, é dado pela expressão
+(x+1) (y+1) (z+1)−1
+.
+Então a resposta correta é ( x + 1 ) ( y + 1 ) • ( z + 1 ) - 1.",
+"image": "",
+},
+{
+"question": "(Enem PPL 2020) Provedores de conteúdos postam anúncios de
+empresas em seus websites. O provedor A cobra R$ 0,10 por clique feito no
+anúncio, além do pagamento de uma taxa de contratação de R$ 50,00. O provedor
+B cobra uma taxa de contratação por anúncio mais atrativa, no valor de R$ 20,00,
+mais um valor por clique feito no anúncio. Para um anúncio que receberá 100
+cliques, o provedor B fixará uma proposta com um valor a ser cobrado por clique, de
+modo que venha a receber, pelo menos, o mesmo total que receberia o provedor A.
+O gerente do provedor B deve avaliar os valores por clique a serem fixados.
+O valor mínimo que o gerente do provedor B deverá escolher é",
+"answerA": "R$ 0,11",
+"answerB": "R$ 0,14",
+"answerC": "R$ 0,30",
+"answerD": "R$ 0,40",
+"answerE": "R$ 0,41",
+"correctAnswer": "D",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular o
+valor total que o provedor A receberia por um anúncio com 100 cliques e, em
+seguida, determinar o valor por clique que o provedor B deveria cobrar para receber
+pelo menos o mesmo valor total.
+O provedor A cobra R$ 0,10 por clique e uma taxa de contratação de R$ 50,00.
+Portanto, para um anúncio com 100 cliques, o provedor A receberia
+0,10×100+50=R$60,00
+.
+O provedor B cobra uma taxa de contratação de R$ 20,00 e um valor por clique que
+ainda precisa ser determinado. Para receber pelo menos o mesmo valor total que o
+provedor A (ou seja, R$ 60,00), o valor por clique que o provedor B deveria cobrar é
+dado pela expressão
+(60−20)/100=R$0,40
+.
+Portanto, o valor mínimo que o gerente do provedor B deverá escolher é R$ 0,40.
+Então a resposta correta é R$ 0,40.",
+"image": "",
+},
+{
+"question": "(Enem 2020) Uma casa de dois andares está sendo projetada. É
+necessário incluir no projeto a construção de uma escada para o acesso ao
+segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:
+|2h + b — 63,5| ≤ 1,5 e 16 ≤ h ≤ 19, nas quais h é a altura do degrau (denominada
+espelho) e b é a profundidade da pisada, como mostra a figura. Por conveniência,
+escolheu-se a altura do degrau como sendo h = 16. As unidades de h e b estão em
+centímetro.
+Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b)
+deve pertencer, para que as regras sejam satisfeitas é",
+"answerA": "30≤ b",
+"answerB": "30≤ b ≤ 31,5",
+"answerC": "30≤ b ≤ 33",
+"answerD": "31,5≤ b ≤ 33",
+"answerE": "B≤ 33",
+"correctAnswer": "C",
+"correctAnswermessage": "Para resolver essa questão, precisamos encontrar o
+intervalo de valores para a profundidade da pisada (b) que satisfaça a regra
+∣2h+b−63,5∣ ≤ 1,5
+, onde h é a altura do degrau e foi escolhida como sendo h = 16.
+Substituindo h = 16 na regra, temos
+∣2×16+b−63,5∣ ≤ 1,5
+, que simplifica para
+∣32+b−63,5∣ ≤ 1,5
+ou
+∣b−31,5∣ ≤ 1,5
+.
+Isso significa que a profundidade da pisada (b) deve estar a uma distância de no
+máximo 1,5 unidades de 31,5. Portanto, o mais amplo intervalo numérico ao qual a
+profundidade da pisada (b) deve pertencer é 30≤ b ≤ 33.
+Então a resposta correta é 30≤ b ≤ 33.",
+"image": "quizmatematicainequacoesq1",
+},
+{
+"question": "(Enem Digital 2020) É comum as cooperativas venderem seus
+produtos a diversos estabelecimentos. Uma cooperativa láctea destinou 4 m3 de
+leite, do total produzido, para análise em um laboratório da região, separados
+igualmente em 4000 embalagens de mesma capacidade.
+Qual o volume de leite, em mililitro, contido em cada embalagem?",
+"answerA": "0,1",
+"answerB": "1,0",
+"answerC": "10,0",
+"answerD": "100,0",
+"answerE": "1 000,0",
+"correctAnswer": "E",
+"correctAnswermessage": "Para resolver essa questão, precisamos dividir o
+volume total de leite pelo número de embalagens.
+O volume total de leite é de 4 m³. Como 1 m³ é igual a 1.000.000 mL, então o
+volume total de leite é de
+4×1.000.000=4.000.000 mL.
+Como o leite foi separado igualmente em 4000 embalagens, o volume de leite em
+cada embalagem é de
+4.000.000/4000=1000 mL.
+Portanto, o volume de leite contido em cada embalagem é 1 000,0 mL. Então a
+resposta correta é 1 000,0.",
+"image": "",
+},
+{
+"question": " (Enem 2016) Até novembro de 2011, não havia uma lei específica
+que punisse fraude em concursos públicos. Isso dificultava o enquadramento dos
+fraudadores em algum artigo específico do Código Penal, fazendo com que eles
+escapassem da Justiça mais facilmente. Entretanto, com o sancionamento da Lei
+12.550/11, é considerado crime utilizar ou divulgar indevidamente o conteúdo
+sigiloso de concurso público, com pena de reclusão de 12 a 48 meses (1 a 4 anos).
+Caso esse crime seja cometido por um funcionário público, a pena sofrerá um
+aumento de ⅓
+Disponível em: www.planalto.gov.br. Acesso em: 15 ago. 2012
+Se um funcionário público for condenado por fraudar um concurso público, sua pena
+de reclusão poderá variar de ",
+"answerA": "4 a 16 meses.",
+"answerB": "16 a 52 meses.",
+"answerC": "16 a 64 meses.",
+"answerD": "24 a 60 meses.",
+"answerE": "28 a 64 meses.",
+"correctAnswer": "C",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular o
+novo intervalo de pena para um funcionário público que cometeu fraude em um
+concurso público.
+A pena original para esse crime é de 12 a 48 meses (1 a 4 anos). Se o crime for
+cometido por um funcionário público, a pena sofre um aumento de
+1/3.
+Portanto, o novo intervalo de pena é de
+12+(⅓)×12=16
+meses a
+48+(⅓)×48=64
+meses.
+Portanto, se um funcionário público for condenado por fraudar um concurso público,
+sua pena de reclusão poderá variar de 16 a 64 meses. ",
+"image": "",
+},
+{
+"question": "(Enem 2015) Um granjeiro detectou uma infecção bacteriológica em
+sua criação de 100 coelhos. A massa de cada coelho era de, aproximadamente, 4
+kg. Um veterinário prescreveu a aplicação de um antibiótico, vendido em frascos
+contendo 16 mL, 25 mL, 100 mL, 400 mL ou 1 600 mL. A bula do antibiótico
+recomenda que, em aves e coelhos, seja administrada uma dose única de 0,25 mL
+para cada quilograma de massa do animal.
+Para que todos os coelhos recebessem a dosagem do antibiótico recomendada pela
+bula, de tal maneira que não sobrasse produto na embalagem, o criador deveria
+comprar um único frasco com a quantidade, em mililitros, igual a",
+"answerA": "16.",
+"answerB": "25.",
+"answerC": "100.",
+"answerD": "400.",
+"answerE": "1 600.",
+"correctAnswer": "C",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular a
+quantidade total de antibiótico necessária para todos os coelhos e, em seguida,
+determinar qual frasco contém exatamente essa quantidade.
+A dose recomendada do antibiótico é de 0,25 mL para cada quilograma de massa
+do animal. Como cada coelho tem uma massa de aproximadamente 4 kg, a dose
+para cada coelho é de
+0,25×4=1 mL.
+Como há 100 coelhos, a quantidade total de antibiótico necessária é de
+1×100=100 mL.
+Portanto, o criador deveria comprar um único frasco com a quantidade de 100 mL.
+Então a resposta correta é 100.",
+"image": "",
+},
+{
+"question": "Com o objetivo de trabalhar a concentração e a sincronia de
+movimentos dos alunos de uma de suas turmas, um professor de educação física
+dividiu essa turma em três grupos (A, B e C) e estipulou a seguinte atividade: os
+alunos do grupo A deveriam bater palmas a cada 2 s, os alunos do grupo B
+deveriam bater palmas a cada 3 s e os alunos do grupo C deveriam bater palmas a
+cada 4 s.
+O professor zerou o cronômetro e os três grupos começaram a bater palmas
+quando ele registrou 1 s. Os movimentos prosseguiram até o cronômetro registrar
+60 s.
+Um estagiário anotou no papel a sequência formada pelos instantes em que os três
+grupos bateram palmas simultaneamente.
+Qual é o termo geral da sequência anotada?",
+"answerA": "12 n, com n um número natural, tal que 1 ≤ n ≤ 5.",
+"answerB": "24 n, com n um número natural, tal que 1 ≤ n ≤ 2.",
+"answerC": "12 (n - 1 ), com n um número natural, tal que 1 ≤ n ≤ 6.",
+"answerD": "12 (n - 1 ) + 1 , com n um número natural, tal que 1 ≤ n ≤ 5.",
+"answerE": "24 (n - 1 ) + 1 , com n um número natural, tal que 1 ≤ n ≤ 3.",
+"correctAnswer": "D",
+"correctAnswermessage": "Os grupos A, B e C baterão palmas simultaneamente
+nos momentos em que o tempo for um múltiplo comum de 2 s, 3 s e 4 s. O menor
+múltiplo comum desses números é 12 s. Portanto, os grupos baterão palmas
+simultaneamente a cada 12 s.
+Como os grupos começaram a bater palmas quando o cronômetro registrou 1 s, os
+instantes em que os três grupos bateram palmas simultaneamente formam uma
+sequência aritmética de razão 12, começando em 13 s (ou seja, 1 s + 12 s).
+Portanto, o termo geral da sequência anotada é
+12(n−1)+1
+, com n um número natural, tal que
+1 ≤ n ≤ 5
+.Então a resposta correta é 12 (n - 1 ) + 1 , com n um número natural, tal que 1 ≤
+n ≤ 5.",
+"image": "",
+},
+{
+"question": " Jogar baralho é uma atividade que estimula o raciocínio. Um jogo
+tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete
+colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas
+cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim
+sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o
+monte, que são as cartas não utilizadas nas colunas.
+A quantidade de cartas que forma o monte é",
+"answerA": "21.",
+"answerB": "24.",
+"answerC": "26.",
+"answerD": "28.",
+"answerE": "31.",
+"correctAnswer": "B",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular o
+número total de cartas usadas para formar as colunas e, em seguida, subtrair esse
+número do total de cartas no baralho.
+As colunas são formadas por uma progressão aritmética de 1 a 7. A soma dos
+termos de uma progressão aritmética é dada pela fórmula
+n/2 (a1+an)
+, onde
+n
+é o número de termos,
+a1
+é o primeiro termo e
+an
+é o último termo. Portanto, o número total de cartas usadas para formar as colunas
+é
+7/2 (1+7) =28.
+Como o baralho tem 52 cartas, a quantidade de cartas que forma o monte é
+52−28=24
+.Portanto, a quantidade de cartas que forma o monte é 24.",
+"image": "",
+},
+{
+"question": "Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar
+a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de
+1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia
+primeiro de janeiro. Considere que o ano tem 365 dias.
+Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará
+fazer?",
+"answerA": "37",
+"answerB": "51",
+"answerC": "88",
+"answerD": "89",
+"answerE": "91",
+"correctAnswer": "C",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular o
+número total de dias em que o maquinista pode viajar e, em seguida, determinar
+quantas viagens ele pode fazer.
+O maquinista começa a trabalhar no dia 1º de janeiro e trabalha até o final do ano,
+que tem 365 dias. No entanto, ele tira férias de 1º a 10 de junho, ou seja, 10 dias.
+Portanto, o número total de dias em que ele pode viajar é
+365−10=355 dias.
+Como ele só pode viajar a cada 4 dias, o número total de viagens que ele pode
+fazer é
+355/4 =88,75
+Como ele não pode fazer uma fração de uma viagem, ele terá que fazer 88
+viagens.
+Portanto, se o maquinista quiser ganhar o máximo possível, ele precisará fazer 88
+viagens. ",
+"image": "",
+},
+{
+"question": "(Enem Digital 2020) Uma editora pretende fazer uma reimpressão de
+um de seus livros. A direção da editora sabe que o gasto com papel representa 60%
+do custo de reimpressão, e que as despesas com a gráfica representam os 40%
+restantes. Dentro da programação da editora, no momento em que ela realizar a
+reimpressão, o preço do papel e os custos com a gráfica terão sofrido reajustes de
+25,9% e 32,5%, respectivamente. O custo para a reimpressão de cada livro, nos
+preços atuais, é de R$ 100,00.
+Qual será o custo, em real, para a reimpressão de cada livro com os reajustes
+estimados de custo de papel e despesas com a gráfica?",
+"answerA": "128,54",
+"answerB": "129,20",
+"answerC": "129,86",
+"answerD": "158,40",
+"answerE": "166,82",
+"correctAnswer": "A",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular o
+novo custo de reimpressão de cada livro após os reajustes no preço do papel e nos
+custos com a gráfica.
+O custo atual de reimpressão de cada livro é de R$ 100,00. Desse valor, 60% (ou
+seja, R$ 60,00) corresponde ao gasto com papel e 40% (ou seja, R$ 40,00)
+corresponde às despesas com a gráfica.
+Após o reajuste de 25,9% no preço do papel, o novo gasto com papel será de
+60×(1+0,259)=R$75,54
+.Após o reajuste de 32,5% nos custos com a gráfica, as novas despesas com a
+gráfica serão de
+40×(1+0,325)=R$53,00
+Portanto, o novo custo para a reimpressão de cada livro será de
+75,54+53=R$128,54
+Portanto, o custo para a reimpressão de cada livro com os reajustes estimados de
+custo de papel e despesas com a gráfica será de R$ 128,54. ",
+"image": "",
+},
+{
+"question": " (Enem Digital 2020) Uma pessoa possuía um lote com área de 300
+m². Nele construiu sua casa, utilizando 70% do lote para construção da residência e
+o restante para área de lazer. Posteriormente, adquiriu um novo lote ao lado do de
+sua casa e, com isso, passou a dispor de um terreno formado pelos dois lotes, cuja
+área mede 420 m². Decidiu então ampliar a casa, de tal forma que ela ocupasse no
+mínimo 60% da área do terreno, sendo o restante destinado à área de lazer.
+O acréscimo máximo que a região a ser destinada à área de lazer no terreno poderá
+ter, em relação à área que fora utilizada para lazer no lote original, em metro
+quadrado, é",
+"answerA": "12",
+"answerB": "48",
+"answerC": "78",
+"answerD": "138",
+"answerE": "168",
+"correctAnswer": "C",
+"correctAnswermessage": "Para resolver essa questão, precisamos calcular a
+área originalmente destinada à área de lazer, a nova área que será ocupada pela
+casa e a nova área que poderá ser destinada à área de lazer.
+No lote original de 300 m², 70% (ou seja,
+300×0,7=210 m²
+foi utilizado para a construção da casa e o restante (ou seja,
+300−210=90 m²
+foi destinado à área de lazer.
+Após a aquisição do novo lote, a área total do terreno passou a ser de 420 m². A
+casa será ampliada para ocupar no mínimo 60% desse terreno (ou seja,
+420×0,6=252 m²
+Portanto, a nova área que poderá ser destinada à área de lazer é de
+420−252=168 m².
+O acréscimo máximo que a região a ser destinada à área de lazer no terreno poderá
+ter, em relação à área que fora utilizada para lazer no lote original, é de
+168−90=78 m².
+Portanto, o acréscimo máximo que a região a ser destinada à área de lazer no
+terreno poderá ter, em relação à área que fora utilizada para lazer no lote original, é
+78 m².",
+"image": "",
+},
+{
+"question": "(Enem 2016) Um paciente necessita de reidratação endovenosa feita
+por meio de cinco frascos de soro durante 24 h. Cada frasco tem um volume de 800
+mL de soro. Nas primeiras quatro horas, deverá receber 40% do total a ser aplicado.
+Cada mililitro de soro corresponde a 12 gotas.
+O número de gotas por minuto que o paciente deverá receber após as quatro
+primeiras horas será",
+"answerA": "16",
+"answerB": "20",
+"answerC": "24",
+"answerD": "34",
+"answerE": "40",
+"correctAnswer": "C",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+1. Primeiro, vamos calcular o volume total de soro que o paciente receberá: 5
+frascos * 800 mL/frasco = 4000 mL.
+2. Nas primeiras 4 horas, o paciente receberá 40% do total, ou seja, 0.40 * 4000
+mL = 1600 mL.
+3. Portanto, após as primeiras 4 horas, o paciente ainda precisará receber 4000
+mL - 1600 mL = 2400 mL de soro.
+4. Como cada mililitro de soro corresponde a 12 gotas, o paciente precisará
+receber um total de 2400 mL * 12 gotas/mL = 28800 gotas após as primeiras
+4 horas.
+5. O tempo restante após as primeiras 4 horas é de 24 h - 4 h = 20 h, ou seja,
+20 h * 60 min/h = 1200 minutos.
+6. Portanto, o número de gotas por minuto que o paciente deverá receber após
+as primeiras quatro horas é de 28800 gotas / 1200 min = 24 gotas/min.",
+"image": "",
+},
+{
+"question": "(Enem 2015) Segundo dados apurados no Censo 2010, para uma
+população de 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve
+algum tipo de rendimento em 2010, a renda média mensal apurada foi de R$ 1
+202,00. A soma dos rendimentos mensais dos 10% mais pobres correspondeu a
+apenas 1,1% do total de rendimentos dessa população considerada, enquanto que
+a soma dos rendimentos mensais dos 10% mais ricos correspondeu a 44,5% desse
+total.
+Disponível em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).
+Qual foi a diferença, em reais, entre a renda média mensal de um brasileiro que
+estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa dos 10%
+mais pobres?",
+"answerA": "240,40",
+"answerB": "548,11",
+"answerC": "1 723,67",
+"answerD": "4 026,70",
+"answerE": "5 216,68",
+"correctAnswer": "E",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+1. Primeiro, vamos calcular o rendimento total da população: 101,8 milhões de
+pessoas * R$ 1.202,00/pessoa = R$ 122.316 milhões.
+2. A soma dos rendimentos mensais dos 10% mais pobres corresponde a 1,1%
+do total, ou seja, 0,011 * R$ 122.316 milhões = R$ 1.345,47 milhões.
+3. A soma dos rendimentos mensais dos 10% mais ricos corresponde a 44,5%
+do total, ou seja, 0,445 * R$ 122.316 milhões = R$ 54.430,62 milhões.
+4. Agora, vamos calcular a renda média mensal para cada grupo. Como cada
+grupo representa 10% da população, ou seja, 10,18 milhões de pessoas:
+○ Para os 10% mais pobres: R$ 1.345,47 milhões / 10,18 milhões de
+pessoas = R$ 132,11 por pessoa.
+○ Para os 10% mais ricos: R$ 54.430,62 milhões / 10,18 milhões de
+pessoas = R$ 5.348,78 por pessoa.
+5. Finalmente, a diferença entre a renda média mensal de um brasileiro que
+estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa
+dos 10% mais pobres é de R$ 5.348,78 - R$ 132,11 = R$ 5.216,67
+6. . ",
+"image": "",
+},
+{
+"question": " Usando a capacidade máxima de carga do caminhão de uma loja de
+materiais de construção, é possível levar 60 sacos de cimento, ou 90 sacos de cal,
+ou 120 latas de areia. No pedido de um cliente, foi solicitada a entrega de 15 sacos
+de cimento, 30 sacos de cal e a maior quantidade de latas de areia que fosse
+possível transportar, atingindo a capacidade máxima de carga do caminhão.
+Nessas condições, qual a quantidade máxima de latas de areia que poderão ser
+enviadas ao cliente?",
+"answerA": "30",
+"answerB": "40",
+"answerC": "50",
+"answerD": "80",
+"answerE": "90",
+"correctAnswer": "C",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular a capacidade do caminhão em termos de cada material:
+○ Cimento: 1 saco de cimento ocupa 1/60 da capacidade do caminhão.
+○ Cal: 1 saco de cal ocupa 1/90 da capacidade do caminhão.
+○ Areia: 1 lata de areia ocupa 1/120 da capacidade do caminhão.
+Agora, vamos calcular quanto da capacidade do caminhão é ocupada pelos 15
+sacos de cimento e 30 sacos de cal:
+○ Cimento: 15 sacos * (1/60) = 0,25 da capacidade do caminhão.
+○ Cal: 30 sacos * (1/90) = 0,33 da capacidade do caminhão.
+Portanto, os sacos de cimento e cal juntos ocupam 0,25 + 0,33 = 0,58 da
+capacidade do caminhão.
+Isso significa que ainda há 1 - 0,58 = 0,42 da capacidade do caminhão disponível
+para as latas de areia.
+Como cada lata de areia ocupa 1/120 da capacidade do caminhão, a quantidade
+máxima de latas de areia que pode ser transportada é de 0,42 / (1/120) = 50 latas.
+Portanto, a resposta correta é 50.",
+"image": "",
+},
+{
+"question": "Um banco de sangue recebe 450 mL de sangue de cada doador.
+Após separar o plasma sanguíneo das hemácias, o primeiro é armazenado em
+bolsas de 250 mL de capacidade. O banco de sangue aluga refrigeradores de uma
+empresa para estocagem das bolsas de plasma, segundo a sua necessidade. Cada
+refrigerador tem uma capacidade de estocagem de 50 bolsas. Ao longo de uma
+semana, 100 pessoas doaram sangue àquele banco.
+Admita que, de cada 60 mL de sangue, extraem-se 40 mL de plasma
+O número mínimo de congeladores que o banco precisou alugar, para estocar todas
+as bolsas de plasma dessa semana, foi ",
+"answerA": "2",
+"answerB": "3",
+"answerC": "4",
+"answerD": "6",
+"answerE": "8",
+"correctAnswer": "B",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular a quantidade total de plasma que foi extraída do sangue
+doado. Sabemos que de cada 60 mL de sangue, extraem-se 40 mL de plasma.
+Portanto, para cada doador que doa 450 mL de sangue, a quantidade de plasma
+extraída é de
+40 mL plasma60 mL sangue×450 mL sangue=300 mL plasma60 mL sangue40 mL
+plasma×450 mL sangue=300 mL plasma
+.
+Como 100 pessoas doaram sangue, a quantidade total de plasma extraída é de
+300 mL plasma/doador×100 doadores=30000 mL plasma=30 L plasma300 mL
+plasma/doador×100 doadores=30000 mL plasma=30 L plasma
+.
+Agora, vamos calcular quantas bolsas são necessárias para armazenar todo esse
+plasma. Como cada bolsa tem capacidade para 250 mL (ou 0,25 L), o número de
+bolsas necessárias é de
+30 L plasma0,25 L plasma/bolsa=120 bolsas0,25 L plasma/bolsa30 L plasma=120
+bolsas
+.
+Finalmente, vamos calcular quantos refrigeradores são necessários para armazenar
+todas essas bolsas. Como cada refrigerador tem capacidade para 50 bolsas, o
+número mínimo de refrigeradores necessários é de
+⌈120 bolsas50 bolsas/refrigerador⌉=3 refrigeradores⌈50 bolsas/refrigerador120
+bolsas⌉=3 refrigeradores
+.
+Portanto, a resposta correta é 3.",
+"image": "",
+},
+{
+"question": "A cotação de uma moeda em relação a uma segunda moeda é o
+valor que custa para comprar uma unidade da primeira moeda, utilizando a segunda
+moeda. Por exemplo, se a cotação do dólar é 1,6 real, isso significa que para
+comprar 1 dólar é necessário 1,6 real.
+Suponha que a cotação do dólar, em reais, seja de 1,6 real, a do euro, em reais,
+seja de 2,4 reais e a cotação da libra, em euros, seja de 1,1 euro.
+Qual é a cotação da libra, em dólares?",
+"answerA": "4,224 dólares",
+"answerB": "2,64 dólares",
+"answerC": "1,65 dólar",
+"answerD": "1,50 dólar",
+"answerE": "1,36 dólar",
+"correctAnswer": "C",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular a cotação da libra em reais. Sabemos que a cotação da
+libra em euros é de 1,1 euro e a cotação do euro em reais é de 2,4 reais. Portanto, a
+cotação da libra em reais é de
+1,1 euro/libra×2,4 real/euro=2,64 real/libra.
+Agora, vamos calcular a cotação da libra em dólares. Sabemos que a cotação do
+dólar em reais é de 1,6 real. Portanto, a cotação da libra em dólares é de
+2,64 real/libra / 1,6 real/dolar=1,65 dolar/libra
+Portanto, a resposta correta é 1,65 dólar.",
+"image": "",
+},
+{
+"question": "As empresas que possuem Serviço de Atendimento ao Cliente (SAC),
+em geral, informam ao cliente que utiliza o serviço um número de protocolo de
+atendimento. Esse número resguarda o cliente para eventuais reclamações e é
+gerado, consecutivamente, de acordo com os atendimentos executados. Ao término
+do mês de janeiro de 2012, uma empresa registrou como último número de
+protocolo do SAC o 390 978 467. Do início do mês de fevereiro até o fim do mês de
+dezembro de 2012, foram abertos 22 580 novos números de protocolos.
+O algarismo que aparece na posição da dezena de milhar do último número de
+protocolo de atendimento registrado em 2012 pela empresa é",
+"answerA": "0.",
+"answerB": "2.",
+"answerC": "4.",
+"answerD": "6.",
+"answerE": "8.",
+"correctAnswer": "A",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular o último número de protocolo de atendimento registrado
+em 2012. Sabemos que o último número de protocolo registrado em janeiro de 2012
+foi 390 978 467 e que foram abertos 22 580 novos números de protocolos do início
+de fevereiro até o fim de dezembro de 2012. Portanto, o último número de protocolo
+registrado em 2012 é
+390978467+22580=391001047390978467+22580=391001047
+.
+Agora, vamos identificar o algarismo na posição da dezena de milhar nesse número.
+Se lermos o número da direita para a esquerda, a posição da dezena de milhar é a
+quinta posição. Portanto, o algarismo na posição da dezena de milhar do número
+391 001 047 é 0.
+Portanto, a resposta correta é 0.",
+"image": "",
+},
+{
+"question": "Deseja-se comprar lentes para óculos. As lentes devem ter
+espessuras mais próximas possíveis da medida 3 mm. No estoque de uma loja, há
+lentes de espessuras: 3,10 mm; 3,021 mm; 2,96 mm; 2,099 mm e 3,07 mm.
+Se as lentes forem adquiridas nessa loja, a espessura escolhida será, em
+milímetros, de",
+"answerA": "2,099.",
+"answerB": "2,96.",
+"answerC": "3,021.",
+"answerD": "3,07.",
+"answerE": "3,10.",
+"correctAnswer": "C",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular a diferença absoluta entre a espessura desejada (3 mm) e
+a espessura de cada lente disponível no estoque da loja:
+○ Para a lente de 3,10 mm: |3,10 mm - 3 mm| = 0,10 mm
+○ Para a lente de 3,021 mm: |3,021 mm - 3 mm| = 0,021 mm
+○ Para a lente de 2,96 mm: |2,96 mm - 3 mm| = 0,04 mm
+○ Para a lente de 2,099 mm: |2,099 mm - 3 mm| = 0,901 mm
+○ Para a lente de 3,07 mm: |3,07 mm - 3 mm| = 0,07 mm
+Agora, vamos escolher a lente cuja espessura tem a menor diferença absoluta em
+relação à espessura desejada. Nesse caso, a lente de 3,021 mm tem a menor
+diferença absoluta (0,021 mm).
+Portanto, a resposta correta é 3,021.",
+"image": "",
+},
+{
+"question": " (Enem 2020) O técnico de um time de basquete pretende aumentar
+a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto,
+dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais
+baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico
+contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda
+precisa contratar devem satisfazer à sua necessidade de aumentar a média das
+estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que
+ainda precisa contratar dentro do critério inicialmente estabelecido.
+Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para
+o grupo de três novos jogadores que ainda irá contratar?",
+"answerA": "1,96",
+"answerB": "1,98",
+"answerC": "2,05",
+"answerD": "2,06",
+"answerE": "2,08",
+"correctAnswer": "D",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular a estatura total da equipe original. A estatura média
+é de 1,93 m para 15 jogadores, então a estatura total é de
+1,93 m/jogador×15 jogadores=28,95 m
+Em seguida, vamos subtrair a estatura dos quatro jogadores mais baixos que
+serão substituídos:
+28,95 m−1,78 m−1,82 m−1,84 m−1,86 m=21,65 m.
+Agora, vamos adicionar a estatura do novo jogador que já foi contratado:
+21,65 m+2,02 m=23,67 m.
+O técnico ainda precisa contratar mais três jogadores para atingir a estatura
+média desejada de 1,99 m para os 15 jogadores. Portanto, a estatura total
+desejada é de
+1,99 m/jogador×15 jogadores=29,85 m
+.
+Portanto, a estatura total que os três novos jogadores devem somar é de
+29,85 m−23,67 m=6,18 m.
+Finalmente, a média mínima das estaturas que o técnico deve fixar para os
+três novos jogadores é de
+6,18 m3 jogadores=2,06 m/jogador3 jogadores6,18 m=2,06 m/jogador
+.
+Portanto, a resposta correta é 2,06.",
+"image": "",
+},
+{
+"question": "(Enem 2019) Segundo o Instituto Brasileiro de Geografia e Estatística
+(IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano 2000, era
+de R$ 1 250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um
+aumento de 7,2% em relação a 2000. Esse mesmo instituto projeta que, em 2020, o
+rendimento médio mensal dos trabalhadores brasileiros poderá ser 10% maior do
+que foi em 2010.
+IBGE. Censo 2010. Disponível em: www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado).
+Supondo que as projeções do IBGE se realizem, o rendimento médio mensal dos
+brasileiros em 2020 será de",
+"answerA": "R$ 1 340,00.",
+"answerB": "R$ 1 349,00.",
+"answerC": "R$ 1 375,00.",
+"answerD": "R$ 1 465,00.",
+"answerE": "R$ 1 474,00.",
+"correctAnswer": "E",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular o rendimento médio mensal dos trabalhadores brasileiros
+em 2010. Sabemos que, em 2000, o rendimento médio mensal era de R$ 1.250,00
+e que, em 2010, esse valor teve um aumento de 7,2% em relação a 2000. Portanto,
+o rendimento médio mensal em 2010 foi de
+R$1.250,00+0,072×R$1.250,00=R$1.340,00.
+Agora, vamos calcular o rendimento médio mensal dos trabalhadores brasileiros em
+2020. O IBGE projeta que, em 2020, o rendimento médio mensal será 10% maior do
+que foi em 2010. Portanto, o rendimento médio mensal em 2020 será de
+R$1.340,00+0,10×R$1.340,00=R$1.474,00.
+Portanto, a resposta correta é R$ 1.474,00.",
+"image": "",
+},
+{
+"question": "Um produtor de café irrigado em Minas Gerais recebeu um relatório
+de consultoria estatıstica, ́ constando, entre outras informações, o desvio padrão das
+produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma
+área de 30000m2 e o valor obtido para o desvio padrão foi de 90 kg/talhão. O
+produtor deve apresentar as informações sobre a produção e a variância dessas
+produções em sacas de 60 kg por hectare (10000m2 ).
+A variância das produções dos talhões expressa em (sacas/hectare) 2 é",
+"answerA": "20,25.",
+"answerB": "4,50.",
+"answerC": "0,71.",
+"answerD": "0,50.",
+"answerE": "0,25.",
+"correctAnswer": "E",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos converter o desvio padrão de kg/talhão para sacas/hectare.
+Sabemos que 1 saca = 60 kg e 1 talhão = 3 hectares. Portanto, o desvio padrão em
+sacas/hectare é de
+90 kg/talhão / 60 kg/saca × 3 talhões/hectare=0,50 sacas/hectare.
+Agora, vamos calcular a variância. A variância é o quadrado do desvio padrão,
+então a variância em (sacas/hectare)² é de
+0, 50 =0,25 2
+.
+Portanto, a resposta correta é 0,25.",
+"image": "",
+},
+{
+"question": "Suponha que a etapa final de uma gincana escolar consista em um
+desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma
+prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas
+pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora
+foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos.
+Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não
+pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10
+alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0.
+Se o aluno da equipe Gama que faltou tivesse comparecido, essa equipe",
+"answerA": "Teria a pontuação igual a 6,5 se ele obtivesse nota 0.",
+"answerB": "Seria a vencedora se ele obtivesse nota 10.",
+"answerC": "Seria a segunda colocada se ele obtivesse nota 8.",
+"answerD": "Permaneceria na terceira posição, independentemente da nota
+obtida pelo aluno.",
+"answerE": "Empataria com a equipe Ômega na primeira colocação se o aluno
+obtivesse nota 9.",
+"correctAnswer": "D",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:Primeiro,
+vamos organizar as notas dos alunos da equipe Gama em ordem crescente: 0; 6;
+6,5; 6,5; 7; 7; 8; 8; 10; 10.
+A mediana é o valor que separa a metade maior e a metade menor de um conjunto
+de dados. Como temos um número par de dados (10 notas), a mediana é a média
+das duas notas do meio, que são a 5ª e a 6ª notas. Portanto, a mediana das notas
+da equipe Gama é
+(7+7) / 2=7.
+Agora, vamos considerar o caso em que o aluno que faltou tivesse comparecido e
+obtido uma nota diferente de zero. Como essa nota seria maior do que zero, ela
+seria maior do que a menor nota atual (que é zero). Portanto, essa nova nota estaria
+entre as duas notas do meio (as 5ª e 6ª notas) ou seria uma das maiores notas.
+Se a nova nota estivesse entre as duas notas do meio ou fosse uma das maiores
+notas, a mediana ainda seria a média das duas notas do meio, que são ambas 7.
+Portanto, independentemente da nota obtida pelo aluno, a mediana (e portanto a
+pontuação da equipe) permaneceria sendo 7.
+Portanto, a resposta correta é “Permaneceria na terceira posição,
+independentemente da nota obtida pelo aluno”.",
+"image": "",
+},
+{
+"question": "(Enem PPL 2020) Um laboratório realizou um teste para calcular a
+velocidade de reprodução de um tipo de bactéria. Para tanto, realizou um
+experimento para observar a reprodução de uma quantidade x dessas bactérias por
+um período de duas horas. Após esse período, constava no habitáculo do
+experimento uma população de 189 440 da citada bactéria. Constatou-se, assim,
+que a população de bactérias dobrava a cada 0,25 hora.
+A quantidade inicial de bactérias era de",
+"answerA": "370.",
+"answerB": "740.",
+"answerC": "1 480.",
+"answerD": "11 840.",
+"answerE": "23 680.",
+"correctAnswer": "B",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular quantas vezes a população de bactérias dobrou durante o
+período de duas horas. Sabemos que a população dobra a cada 0,25 hora, então o
+número de vezes que dobrou em duas horas é
+2 horas / 0,25 hora/dobramento = 8 dobramentos.
+Agora, vamos calcular a quantidade inicial de bactérias. Sabemos que a população
+final de bactérias é de 189 440 e que essa população é o resultado de dobrar a
+população inicial 8 vezes. Portanto, a quantidade inicial de bactérias é de
+189440 / 2 =740. 8
+Portanto, a resposta correta é 740.",
+"image": "",
+},
+{
+"question": "(Enem 2019) Uma empresa tem diversos funcionários. Um deles é o
+gerente, que recebe R$ 1 000,00 por semana. Os outros funcionários são diaristas.
+Cada um deles trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.
+Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em
+reais, que esta empresa gasta semanalmente para pagar seus funcionários é
+expressa por",
+"answerA": "Y = 80X + 920.",
+"answerB": "Y = 80X + 1 000.",
+"answerC": "Y = 80X + 1 080.",
+"answerD": "Y = 160X + 840.",
+"answerE": "Y = 160X + 1 000.",
+"correctAnswer": "D",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos calcular o valor que a empresa gasta semanalmente com os
+diaristas. Sabemos que cada diarista trabalha 2 dias por semana e recebe R$ 80,00
+por dia trabalhado. Portanto, cada diarista recebe
+2 dias/semana × R$80,00/dia = R$160,00/semana.
+Agora, vamos calcular a quantia total Y que a empresa gasta semanalmente para
+pagar seus funcionários. Sabemos que X é a quantidade total de funcionários da
+empresa e que um deles é o gerente, que recebe R$ 1 000,00 por semana.
+Portanto, os outros
+1X−1
+funcionários são diaristas e a empresa gasta
+R$160,00/semana/diarista×(X−1) diaristas=R$160(X−1)
+por semana com eles. Somando o salário do gerente, a quantia total é de
+R$160(X−1) + R$1000,00 = R$160X − R$160 + R$1000= R$160X + R$840.
+Portanto, a resposta correta é Y = 160X + 840.",
+"image": "",
+},
+{
+"question": " Em um teleférico turístico, bondinhos saem de estações ao nível do
+mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos
+se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da
+estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da
+montanha.
+Quantos segundos após a partida do bondinho B partiu o bondinho A?",
+"answerA": "9.",
+"answerB": "10.",
+"answerC": "15.",
+"answerD": "20.",
+"answerE": "25.",
+"correctAnswer": "B",
+"correctAnswermessage": "Vamos resolver essa questão passo a passo:
+Primeiro, vamos converter o tempo de travessia de minutos para segundos.
+Sabemos que 1 minuto é igual a 60 segundos, então a travessia dura
+1,5 min×60 s/min=90 s.
+Agora, vamos calcular o tempo que o bondinho B levou para chegar ao ponto onde
+cruzou com o bondinho A. Sabemos que o bondinho A partiu 40 segundos antes de
+chegar a esse ponto, então o bondinho B levou
+90 s−40 s=50 s
+para chegar a esse ponto.
+Portanto, o bondinho A partiu
+50 s−40 s=10 s
+após a partida do bondinho B.
+Portanto, a resposta correta é 10.",
+"image": "",
+},
+{
+"question": "O saldo de contratações no mercado formal no setor varejista da
+região metropolitana de São Paulo registrou alta. Comparando as contratações
+deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de
+4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.
+Disponıv́ el em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
+Suponha que o incremento de trabalhadores no setor varejista seja sempre o
+mesmo nos seis primeiros meses do ano.
+Considerando-se que y e x representam, respectivamente, as quantidades de
+trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o
+segundo, e assim por diante, a expressão algébrica que relaciona essas
+quantidades nesses meses é",
+"answerA": "Y = 4300x",
+"answerB": "Y = 884905x",
+"answerC": "Y = 872005 + 4300x",
+"answerD": "Y = 876305 + 4300x",
+"answerE": "Y = 880605 + 4300x",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é a alternativa “C”:
+Y=872005+4300X
+.
+Vamos entender o porquê:
+O enunciado diz que houve um incremento de 4300 vagas no setor varejista de
+janeiro para fevereiro, totalizando 880605 trabalhadores. Isso significa que em
+janeiro havia
+880605−4300=876305
+trabalhadores.
+A expressão algébrica deve representar a quantidade de trabalhadores em função
+do mês. Como o incremento é sempre o mesmo (4300 vagas por mês), a expressão
+deve ter uma parte constante (o número de trabalhadores em janeiro) e uma parte
+que aumenta com o mês (4300 vezes o número do mês).
+Portanto, a expressão correta é
+Y=876305+4300X
+. No entanto, como janeiro é considerado o primeiro mês (x=1), devemos subtrair
+4300 da parte constante para que a expressão esteja correta para x=1. Assim,
+obtemos a expressão
+Y=872005+4300X
+, que é a alternativa “C”. Esta expressão indica que começamos com 872005
+trabalhadores em janeiro e adicionamos 4300 trabalhadores a cada mês
+subsequente.",
+"image": "",
+},
+{
+"question": " (Enem Digital 2020) “1, 2, 3, GOL, 5, 6, 7, GOL, 9, 10, 11, GOL, 13,
+GOL, 15, GOL, 17, 18, 19, GOL, 21, 22, 23, GOL, 25, ...”
+Para a Copa do Mundo de Futebol de 2014, um bar onde se reuniam amigos para
+assistir aos jogos criou uma brincadeira. Um dos presentes era escolhido e tinha
+que dizer, numa sequência em ordem crescente, os números naturais não nulos,
+trocando os múltiplos de 4 e os números terminados em 4 pela palavra GOL. A
+brincadeira acabava quando o participante errava um termo da sequência.
+Um dos participantes conseguiu falar até o número 103, respeitando as regras da
+brincadeira.
+O total de vezes em que esse participante disse a palavra GOL foi",
+"answerA": "20.",
+"answerB": "28.",
+"answerC": "30.",
+"answerD": "35.",
+"answerE": "40.",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é “30”.
+Vamos entender o porquê:
+O participante disse “GOL” no lugar dos múltiplos de 4 e dos números que terminam
+em 4. Portanto, precisamos contar esses números de 1 a 103.
+Há
+|103/4|=25
+múltiplos de 4 no intervalo de 1 a 103 (onde
+|x|
+denota a parte inteira de x).
+Os números que terminam em 4 são 4, 14, …, 94, totalizando 10 números.
+No entanto, os múltiplos de 4 que terminam em 4 (ou seja, 4, 24, 44, 64, e 84) estão
+sendo contados duas vezes. Portanto, devemos subtrair esses 5 números da
+contagem total.
+Assim, o total de vezes que o participante disse “GOL” é
+25+10−5=30
+Portanto, a resposta correta é “30”.",
+"image": "",
+},
+{
+"question": " (Enem PPL 2020) A prefeitura de uma cidade está renovando os
+canteiros de flores de suas praças. Entre as possíveis variedades que poderiam ser
+plantadas, foram escolhidas cinco: amor-perfeito, cravina, petúnia, margarida e lírio.
+Em cada um dos canteiros, todos com composições diferentes, serão utilizadas
+somente três variedades distintas, não importando como elas serão dispostas.
+Um funcionário deve determinar os trios de variedades de flores que irão compor
+cada canteiro.
+De acordo com o disposto, a quantidade de trios possíveis é dada por",
+"answerA": "5.",
+"answerB": "5 ∙ 3",
+"answerC": "5!/(5 − 3)!",
+"answerD": "5!/(5 − 3)!2!",
+"answerE": "5!/(5 − 3)!3!",
+"correctAnswer": "E",
+"correctAnswermessage": "A resposta correta é a alternativa “E”:
+5!/(5−3)!3!
+Vamos entender o porquê:
+Estamos escolhendo 3 variedades de flores de um total de 5, e a ordem em que as
+escolhemos não importa. Isso é um exemplo de uma combinação, que é dada pela
+fórmula:
+C(n,k)=n! / k! (n−k)!
+onde
+n
+é o número total de opções (neste caso, 5 variedades de flores),
+k
+é o número de opções que estamos escolhendo (neste caso, 3 variedades), e
+!
+denota o fatorial.
+Substituindo
+n=5
+e
+k=3
+na fórmula, obtemos:
+C(5,3)=5! / 3!(5−3)!=5! / 3!2!
+No entanto, a questão pede a quantidade de trios possíveis, onde cada trio é
+composto por três variedades distintas. Portanto, devemos multiplicar o resultado
+por 3!, obtendo:
+5! / (5−3)!⋅3! = 5! / 2!⋅3! = 5!/(5−3)!3!
+Portanto, a quantidade de trios possíveis é dada por
+5!/(5−3)!3!5!/(5−3)!3!
+. Portanto, a resposta correta é “E”.",
+"image": "",
+},
+{
+"question": " (Enem PPL 2019) Uma pessoa comprou um aparelho sem fio para
+transmitir músicas a partir do seu computador para o rádio de seu quarto. Esse
+aparelho possui quatro chaves seletoras e cada uma pode estar na posição 0 ou 1.
+Cada escolha das posições dessas chaves corresponde a uma frequência diferente
+de transmissão.
+A quantidade de frequências diferentes que esse aparelho pode transmitir é
+determinada por",
+"answerA": "6.",
+"answerB": "8.",
+"answerC": "12.",
+"answerD": "16.",
+"answerE": "24.",
+"correctAnswer": "D",
+"correctAnswermessage": "A resposta correta é “16”.
+Vamos entender o porquê:
+Cada chave seletora do aparelho pode estar em uma de duas posições (0 ou 1).
+Como existem quatro chaves, o número total de combinações possíveis (e, portanto,
+o número total de frequências diferentes que o aparelho pode transmitir) é dado por
+2
+4
+Calculando, temos:
+2 = 16 4
+Portanto, a quantidade de frequências diferentes que esse aparelho pode transmitir
+é determinada por 16. ",
+"image": "",
+},
+{
+"question": "(Enem 2019) Durante suas férias, oito amigos, dos quais dois são
+canhotos, decidem realizar um torneio de vôlei de praia. Eles precisam formar
+quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por
+dois jogadores canhotos.
+De quantas maneiras diferentes podem ser formadas essas quatro duplas?",
+"answerA": "69",
+"answerB": "70",
+"answerC": "90",
+"answerD": "104",
+"answerE": "105",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é “90”.
+Vamos entender o porquê:
+Primeiro, vamos considerar a formação das duplas com os jogadores canhotos.
+Como não pode haver uma dupla formada por dois jogadores canhotos, cada um
+deles deve ser emparelhado com um jogador destro. Existem 6 jogadores destros,
+então temos
+6×5=30
+maneiras de formar as duas duplas que incluem os jogadores canhotos.
+Agora, precisamos formar as duas duplas restantes com os 4 jogadores destros
+restantes. Isso é um problema de combinação, pois a ordem não importa. O número
+de combinações de
+n
+itens tomados
+k
+de cada vez é dado por:
+C(n,k)= n! / k!(n−k)!
+Substituindo
+n=4
+e
+k=2
+na fórmula, obtemos:
+C(4,2) = 4! / 2!(4−2)! = 6
+Portanto, existem 6 maneiras de formar as duas duplas restantes.
+No entanto, como estamos formando duas duplas idênticas (ou seja, duas duplas de
+jogadores destros), precisamos dividir por 2! para evitar a contagem em duplicidade.
+Portanto, existem
+6 / 2=3
+maneiras distintas de formar as duas duplas restantes.
+Multiplicando o número de maneiras de formar as duplas que incluem os jogadores
+canhotos pelo número de maneiras de formar as duplas restantes, obtemos o
+número total de maneiras de formar as quatro duplas:
+30×3=90",
+"image": "",
+},
+{
+"question": "(Enem 2017) Um morador de uma região metropolitana tem 50% de
+probabilidade de atrasar-se para o trabalho quando chove na região; caso não
+chova, sua probabilidade de atraso é de 25%. Para um determinado dia, o serviço
+de meteorologia estima em 30% a probabilidade da ocorrência de chuva nessa
+região.
+Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual
+foi dada a estimativa de chuva?",
+"answerA": "0,075",
+"answerB": "0,150",
+"answerC": "0,325",
+"answerD": "0,600",
+"answerE": "0,800",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é “0,325”.
+Vamos entender o porquê:
+A probabilidade total de atraso é a soma das probabilidades de atraso em cada
+cenário (chove e não chove), ponderada pela probabilidade de cada cenário ocorrer.
+Se chover (com probabilidade de 30% ou 0,30), a probabilidade de atraso é de 50%
+ou 0,50. Portanto, a contribuição desse cenário para a probabilidade total de atraso
+é
+0,30×0,50=0,15
+.
+Se não chover (com probabilidade de 70% ou 0,70), a probabilidade de atraso é de
+25% ou 0,25. Portanto, a contribuição desse cenário para a probabilidade total de
+atraso é
+0,70×0,25=0,175.
+Somando as contribuições de ambos os cenários, obtemos a probabilidade total de
+atraso:
+0,15+0,175=0,325
+Portanto, a probabilidade de esse morador se atrasar para o serviço no dia para o
+qual foi dada a estimativa de chuva é 0,325. ",
+"image": "",
+},
+{
+"question": "(Enem 2014) O psicólogo de uma empresa aplica um teste para
+analisar a aptidão de um candidato a determinado cargo. O teste consiste em uma
+série de perguntas cujas respostas devem ser verdadeiro ou falso e termina quando
+o psicólogo fizer a décima pergunta ou quando o candidato der a segunda resposta
+errada. Com base em testes anteriores, o psicólogo sabe que a probabilidade de o
+candidato errar uma resposta é 0,20. A probabilidade de o teste terminar na quinta
+pergunta é",
+"answerA": "0,02048.",
+"answerB": "0,08192.",
+"answerC": "0,24000.",
+"answerD": "0,40960.",
+"answerE": "0,49152.",
+"correctAnswer": "B",
+"correctAnswermessage": "A resposta correta é “0,08192”.
+Vamos entender o porquê:
+O teste termina na quinta pergunta se e somente se o candidato errar a quinta
+pergunta e essa for a segunda resposta errada. Isso significa que o candidato deve
+errar uma das quatro primeiras perguntas e acertar as outras três, e então errar a
+quinta pergunta.
+A probabilidade de errar uma pergunta é de 0,20 e a probabilidade de acertar uma
+pergunta é de 1 - 0,20 = 0,80.
+Existem 4 maneiras de escolher qual das quatro primeiras perguntas o candidato vai
+errar. Portanto, a probabilidade de o candidato errar uma das quatro primeiras
+perguntas e acertar as outras três é de
+4×(0,20)×(0, 80) =0,4096 8
+.
+A probabilidade de o candidato errar a quinta pergunta é de 0,20.
+Portanto, a probabilidade total de o teste terminar na quinta pergunta é
+0,4096×0,20=0,08192.",
+"image": "",
+},
+{
+"question": "(Enem 2020) A caixa-d’água de um edifício terá a forma de um
+paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete
+que representa o edifício, a caixa d’água tem dimensões 2 cm x 3,51 cm x 4 cm.
+Dado: 1 dm³ = 1 L
+A escala usada pelo arquiteto foi",
+"answerA": "1 : 10",
+"answerB": "1 : 100",
+"answerC": "1 : 1 000",
+"answerD": "1 : 10 000",
+"answerE": "1 : 100 000",
+"correctAnswer": "B",
+"correctAnswermessage": "A resposta correta é “1 : 100”.
+Vamos entender o porquê:
+O volume da caixa d’água na maquete é
+2 cm×3,51 cm×4 cm=28,08 cm³
+Como 1 dm³ = 1 L e 1 dm = 10 cm, temos que 1 L = 1000 cm³. Portanto, o volume
+da caixa d’água na realidade é
+28080 L = 28080×1000 cm³ =28080000 cm³.
+A escala é a razão entre as dimensões na maquete e as dimensões na realidade.
+Como o volume é proporcional ao cubo das dimensões lineares, a escala linear é a
+raiz cúbica da razão dos volumes. Portanto, a escala usada pelo arquiteto é
+3
+28, 08 /28080000 = 1 / 100
+. Portanto, a resposta correta é 1 : 100",
+"image": "",
+},
+{
+"question": "(Enem Digital 2020) Uma associação desportiva contratou uma
+empresa especializada para construir um campo de futebol, em formato retangular,
+com 250 metros de perímetro. Foi elaborada uma planta para esse campo na escala
+1 : 2 000.
+Na planta, a medida do perímetro do campo de futebol, em metro, é",
+"answerA": "0,0005.",
+"answerB": "0,125.",
+"answerC": "8.",
+"answerD": "250.",
+"answerE": "500 000.",
+"correctAnswer": "B",
+"correctAnswermessage": "A resposta correta é “0,125”.
+Vamos entender o porquê:
+A escala de 1 : 2000 significa que 1 unidade na planta corresponde a 2000 unidades
+na realidade. Portanto, para encontrar a medida do perímetro do campo de futebol
+na planta, devemos dividir o perímetro real pelo fator da escala.
+Portanto, o perímetro na planta é
+250 / 2000=0,125
+metros. Portanto, a resposta correta é 0,125",
+"image": "",
+},
+{
+"question": "(Enem 2020) Um pé de eucalipto em idade adequada para o corte
+rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4,
+medida pela razão da massa de uma folha desse papel por sua área, é de 75
+gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado.
+Disponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado).
+Nessas condições, quantos quilogramas de papel rende, em média, um pé de
+eucalipto?",
+"answerA": "4 301",
+"answerB": "1 500",
+"answerC": "930",
+"answerD": "267",
+"answerE": "93",
+"correctAnswer": "E",
+"correctAnswermessage": "A resposta correta é “93”.
+Vamos entender o porquê:
+A massa de uma folha de papel A4 é dada pelo produto da densidade superficial do
+papel pela área da folha. Portanto, a massa de uma folha de papel A4 é
+75 g/m2 × 0,062 m2=4,65 g.
+Como um pé de eucalipto rende 20 mil folhas de papel A4, a massa total de papel
+que ele rende é
+20000 × 4,65 g=93000 g.
+Como 1 kg = 1000 g, a massa total de papel que um pé de eucalipto rende em
+quilogramas é
+93000 / 1000=93 kg.
+Portanto, um pé de eucalipto rende, em média, 93 kg de papel. Portanto, a resposta
+correta é “93”.",
+"image": "",
+},
+{
+"question": " (Enem PPL 2020) Após o término das inscrições de um concurso,
+cujo número de vagas é fixo, foi divulgado que a razão entre o número de
+candidatos e o número de vagas, nesta ordem, era igual a 300. Entretanto, as
+inscrições foram prorrogadas, inscrevendo-se mais 4 000 candidatos, fazendo com
+que a razão anteriormente referida passasse a ser igual a 400. Todos os candidatos
+inscritos fizeram a prova, e o total de candidatos aprovados foi igual à quantidade de
+vagas. Os demais candidatos foram reprovados.
+Nessas condições, quantos foram os candidatos reprovados?",
+"answerA": "11 960",
+"answerB": "11 970",
+"answerC": "15 960",
+"answerD": "15 970",
+"answerE": "19 960",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é “15 960”.
+Vamos entender o porquê:
+Seja
+v
+o número de vagas e
+c
+o número de candidatos. Inicialmente, temos que
+c/v=300
+. Após a prorrogação das inscrições, mais 4000 candidatos se inscreveram, então
+temos
+(c+4000)/v=400
+.
+Podemos resolver esse sistema de equações para encontrar
+c
+e
+v
+. Subtraindo a primeira equação da segunda, obtemos
+4000 / v = 100
+, então
+v=40
+. Substituindo isso na primeira equação, obtemos
+c=300×v=300×40=12000
+.
+Após a prorrogação das inscrições, o número total de candidatos é
+c+4000 = 12000 + 4000 = 16000
+. Como o número total de candidatos aprovados é igual ao número de vagas (ou
+seja, 40), o número de candidatos reprovados é
+16000 − 40 = 15960
+.
+Portanto, o número de candidatos reprovados foi 15 960. ",
+"image": "",
+},
+{
+"question": " (Enem 2019) Três sócios resolveram fundar uma fábrica. O
+investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que
+cada um investiu nesse primeiro momento, resolveram considerar que cada um
+deles contribuiu com um terço do investimento inicial.
+Algum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos,
+investiram mais R$ 800 000,00 na fábrica. Cada um deles contribuiu com um quarto
+desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido
+feito. Os sócios decidiram então dividir o montante de R$ 1 800 000,00 obtido com a
+venda, de modo proporcional à quantia total investida por cada sócio.
+Quais os valores mais próximos, em porcentagens, correspondentes às parcelas
+financeiras que cada um dos três sócios iniciais e o quarto sócio, respectivamente,
+receberam?",
+"answerA": "29,60 e 11,11.",
+"answerB": "28,70 e 13,89.",
+"answerC": "25,00 e 25,00.",
+"answerD": "18,52 e 11,11.",
+"answerE": "12,96 e 13,89.",
+"correctAnswer": "A",
+"correctAnswermessage": "A resposta correta é “29,60 e 11,11”.
+Vamos entender o porquê:
+Cada um dos três sócios iniciais investiu
+1 / 3
+do investimento inicial de R$ 1 000 000,00, ou seja, R$ 333 333,33. Além disso,
+cada um deles contribuiu com
+1 / 4
+do segundo investimento de R$ 800 000,00, ou seja, R$ 200 000,00. Portanto, cada
+um dos três sócios iniciais investiu um total de R$ 533 333,33.
+O quarto sócio contribuiu apenas com o segundo investimento, ou seja, R$ 200
+000,00.
+O investimento total na fábrica foi de R$ 1 000 000,00 + R$ 800 000,00 = R$ 1 800
+000,00. Portanto, a parcela financeira que cada um dos três sócios iniciais recebeu
+é
+533333.33 / 1800000≈0.296
+ou “29,60%” do total. A parcela financeira que o quarto sócio recebeu é
+200000 / 1800000≈0.111
+ou “11,11%” do total.
+Portanto, a resposta correta é 29,60 e 11,11",
+"image": "",
+},
+{
+"question": "(Enem 2019) Comum em lançamentos de empreendimentos
+imobiliários, as maquetes de condomínios funcionam como uma ótima ferramenta
+de marketing para as construtoras, pois, além de encantar clientes, auxiliam de
+maneira significativa os corretores na negociação e venda de imóveis.
+Um condomínio está sendo lançado em um novo bairro de uma cidade. Na maquete
+projetada pela construtora, em escala de 1 : 200, existe um reservatório de água
+com capacidade de 45 cm3.
+Quando todas as famílias estiverem residindo no condomínio, a estimativa é que,
+por dia, sejam consumidos 30 000 litros de água.
+Em uma eventual falta de água, o reservatório cheio será suficiente para abastecer
+o condomínio por quantos dias?",
+"answerA": "30",
+"answerB": "15",
+"answerC": "12",
+"answerD": "6",
+"answerE": "3",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é “12”.
+Vamos entender o porquê:
+Primeiro, precisamos converter a capacidade do reservatório da maquete para a
+capacidade do reservatório real. Como a escala da maquete é de 1 : 200, o volume
+do reservatório real é
+45 cm³×200³=360000000 cm³.
+Como 1 m³ = 1000000 cm³ e 1 m³ = 1000 L, a capacidade do reservatório real é
+360000000 / 1000000=360 m³ =360000 L
+.
+A estimativa é que sejam consumidos 30000 L de água por dia. Portanto, em uma
+eventual falta de água, o reservatório cheio será suficiente para abastecer o
+condomínio por
+360000 / 30000=12 dias.
+Portanto, a resposta correta é “12”. ",
+"image": "",
+},
+{
+"question": "(Enem 2018) O gerente do setor de recursos humanos de uma
+empresa está organizando uma avaliação em que uma das etapas é um jogo de
+perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de
+dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para
+colocação em uma urna.
+Contudo, após depositar vinte perguntas de diferentes níveis na urna, ele observou
+que 25% delas eram de nível fácil. Querendo que as perguntas de nível fácil sejam
+a maioria, o gerente decidiu acrescentar mais perguntas de nível fácil à urna, de
+modo que a probabilidade de o primeiro participante retirar, aleatoriamente, uma
+pergunta de nível fácil seja de 75%.
+Com essas informações, a quantidade de perguntas de nível fácil que o gerente
+deve acrescentar à urna é igual a:",
+"answerA": "10.",
+"answerB": "15.",
+"answerC": "35.",
+"answerD": "40.",
+"answerE": "45.",
+"correctAnswer": "D",
+"correctAnswermessage": "A resposta correta é 40. Vamos entender o porquê:
+Inicialmente, temos 20 perguntas na urna, das quais 25% são fáceis. Isso significa
+que temos 5 perguntas fáceis (20 * 0,25 = 5).
+O gerente quer que a probabilidade de retirar uma pergunta fácil seja de 75%, ou
+seja, 3/4. Para isso, ele precisa adicionar mais perguntas fáceis à urna.
+Seja x o número de perguntas fáceis que o gerente precisa adicionar. A
+probabilidade de retirar uma pergunta fácil será então (5 + x) / (20 + x).
+Portanto, temos a seguinte equação:
+(5 + x) / (20 + x) = 3/4
+Resolvendo para x, obtemos x = 40.
+Portanto, o gerente precisa adicionar 40 perguntas fáceis à urna para que a
+probabilidade de retirar uma pergunta fácil seja de 75%.",
+"image": "",
+},
+{
+"question": " Às 17 h 15 min começa uma forte chuva, que cai com intensidade
+constante. Uma piscina em forma de um paralelepípedo retângulo, que se
+encontrava inicialmente vazia, começa a acumular a água da chuva e, às 18 horas,
+o nível da água em seu interior alcança 20 cm de altura. Nesse instante, é aberto o
+registro que libera o escoamento da água por um ralo localizado no fundo dessa
+piscina, cuja vazão é constante. Às 18 h 40 min a chuva cessa e, nesse exato
+instante, o nível da água na piscina baixou para 15 cm.
+O instante em que a água dessa piscina terminar de escoar completamente está
+compreendido entre",
+"answerA": "19 h 30 min e 20 h 10 min.",
+"answerB": "19 h 20 min e 19 h 30 min.",
+"answerC": "19 h 10 min e 19 h 20 min.",
+"answerD": "19 h e 19 h 10 min.",
+"answerE": "18 h 40 min e 19 h.",
+"correctAnswer": "D",
+"correctAnswermessage": "A resposta correta é entre 19h e 19h10min. Vamos
+entender o porquê:
+Primeiro, vamos calcular a taxa de enchimento da piscina pela chuva. A piscina
+encheu de 0 cm para 20 cm em 45 minutos (das 17h15min às 18h). Portanto, a taxa
+de enchimento é de
+20 cm / 45 min=4 / 9 cm/min.
+Em seguida, vamos calcular a taxa de escoamento da piscina. Sabemos que das
+18h às 18h40min (40 minutos), o nível da água na piscina caiu de 20 cm para 15 cm
+enquanto a chuva ainda estava enchendo a piscina. Portanto, a taxa de escoamento
+é maior que a taxa de enchimento. A mudança no nível da água foi de 5 cm em 40
+minutos, então a taxa de escoamento é
+5 cm / 40 min + 4 / 9 cm/min=1 / 8 +4 / 9 = 73 / 288 cm/min.
+Agora, queremos saber quanto tempo levará para a água escoar completamente da
+piscina após a chuva parar às 18h40min, quando o nível da água era de 15 cm.
+Usando a taxa de escoamento que calculamos, o tempo necessário é
+15 cm / (73 / 288) cm/min = 60 / 73 min ≈ 20 min
+Portanto, a água terminará de escoar completamente por volta das 19h (18h40min +
+20 min), que está entre 19h e 19h10min.",
+"image": "",
+},
+{
+"question": "(Enem 2014) Os vidros para veıculos ́ produzidos por certo fabricante
+têm transparências entre 70% e 90%, dependendo do lote fabricado. Isso significa
+que, quando um feixe luminoso incide no vidro, uma parte entre 70% e 90% da luz
+consegue atravessá-lo. Os veıculos ́ equipados com vidros desse fabricante terão
+instaladas, nos vidros das portas, pelıculas ́ protetoras cuja transparência,
+dependendo do lote fabricado, estará entre 50% e 70%. Considere que uma
+porcentagem P da intensidade da luz, proveniente de uma fonte externa, atravessa
+o vidro e a pelıcula. ́
+De acordo com as informações, o intervalo das porcentagens que representam a
+variação total possıvel ́ de P é",
+"answerA": "[35 ; 63].",
+"answerB": "[40 ; 63].",
+"answerC": "[50 ; 70].",
+"answerD": "[50 ; 90].",
+"answerE": "[70 ; 90].",
+"correctAnswer": "A",
+"correctAnswermessage": "A resposta correta é [35 ; 63]. Vamos entender o
+porquê:
+A transparência do vidro varia entre 70% e 90%, e a transparência da película
+protetora varia entre 50% e 70%. Portanto, a porcentagem P da intensidade da luz
+que atravessa tanto o vidro quanto a película é o produto das transparências do
+vidro e da película.
+No caso mais favorável, temos a maior transparência para ambos, ou seja, 90%
+para o vidro e 70% para a película. Portanto, a maior porcentagem possível para P é
+0,90×0,70=0,63
+ou
+63%.
+No caso menos favorável, temos a menor transparência para ambos, ou seja, 70%
+para o vidro e 50% para a película. Portanto, a menor porcentagem possível para P
+é
+0,70×0,50=0,35
+ou
+35%.
+Portanto, o intervalo das porcentagens que representam a variação total possível de
+P é [35 ; 63].",
+"image": "",
+},
+{
+"question": "Uma pessoa compra semanalmente, numa mesma loja, sempre a
+mesma quantidade de um produto que custa R$ 10,00 a unidade.
+Como já sabe quanto deve gastar, leva sempre R$ 6,00 a mais do que a quantia
+necessária para comprar tal quantidade, para o caso de eventuais despesas extras.
+Entretanto, um dia, ao chegar à loja, foi informada de que o preço daquele produto
+havia aumentado 20%. Devido a esse reajuste, concluiu que o dinheiro levado era a
+quantia exata para comprar duas unidades a menos em relação à quantidade
+habitualmente comprada.
+A quantia que essa pessoa levava semanalmente para fazer a compra era",
+"answerA": "R$ 166,00.",
+"answerB": "R$ 156,00.",
+"answerC": "R$ 84,00.",
+"answerD": "R$ 46,00.",
+"answerE": "R$ 24,00.",
+"correctAnswer": "B",
+"correctAnswermessage": "A resposta correta é R$ 156,00. Vamos entender o
+porquê:
+Vamos chamar de x a quantidade habitualmente comprada por essa pessoa.
+Portanto, o valor total que ela costumava gastar era de 10x reais (pois cada unidade
+custa R$ 10,00). Além disso, ela sempre levava R$ 6,00 a mais, ou seja, ela levava
+10x+6 reais para a loja.
+Um dia, o preço do produto aumentou 20%, então o novo preço é de 10×1,20=12
+reais. Com o dinheiro que ela levou (10x+6 reais), ela poderia comprar exatamente
+x−2 unidades do produto (pois são duas unidades a menos em relação à quantidade
+habitualmente comprada).
+Portanto, temos a seguinte equação:
+12(x−2)=10x+6
+Resolvendo para x, obtemos x=13. Portanto, a quantia que essa pessoa levava
+semanalmente para fazer a compra era de 10×13+6=R$ 156,00. ",
+"image": "",
+},
+{
+"question": "Uma torneira não foi fechada corretamente e fiou pingando, da
+meia-noite às seis horas da manhã, com a frequência de uma gota a cada três
+segundos. Sabe-se que cada gota d’agua tem volume de 0,2 mL.
+Qual foi o valor mais aproximado do total de água desperdiçada nesse perıodo, ́ em
+litros?",
+"answerA": "0,2",
+"answerB": "1,2",
+"answerC": "1,4",
+"answerD": "12,9",
+"answerE": "64,8",
+"correctAnswer": "C",
+"correctAnswermessage": "A resposta correta é 1,4 litros. Vamos entender o
+porquê:
+Primeiro, vamos calcular o número total de gotas que caíram da torneira. A torneira
+ficou pingando da meia-noite às seis horas da manhã, ou seja, durante 6 horas.
+Como cada hora tem 3600 segundos e a torneira pingava a cada 3 segundos, o
+número total de gotas é de
+6×3600 / 3=7200 gotas.
+Sabemos que cada gota d’água tem um volume de 0,2 mL. Portanto, o volume total
+de água desperdiçada é de
+7200 × 0,2=1440 mL.
+Como 1 litro é igual a 1000 mL, o volume total de água desperdiçada em litros é de
+1440 / 1000=1,4 litros.",
+"image": "",
+},
+{
+"question": "(Enem 2012) Nos shopping centers costumam existir parques com
+vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são
+descontados por cada perıodo ́ de tempo de uso dos jogos. Dependendo da
+pontuação da criança no jogo, ela recebe um certo número de tıquetes ́ para trocar
+por produtos nas lojas dos parques. Suponha que o perıodo ́ de uso de um
+brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200
+tıquetes. ́ Para uma criança que recebe 20 tıquetes ́ por perıodo ́ de tempo que joga, o
+valor, em reais, gasto com créditos para obter a quantidade de tıquetes ́ para trocar
+pela bicicleta é",
+"answerA": "153.",
+"answerB": "460.",
+"answerC": "1 218.",
+"answerD": "1 380.",
+"answerE": "3 066.",
+"correctAnswer": "D",
+"correctAnswermessage": "A resposta correta é R$ 1.380,00. Vamos entender o
+porquê:
+Primeiro, vamos calcular quantos períodos de tempo a criança precisa jogar para
+obter os 9.200 tíquetes necessários para a bicicleta. Como a criança recebe 20
+tíquetes por período de tempo que joga, ela precisa jogar
+9200 tiquetes / 20 tiquetes/perıodo = 460 perıodos.
+Sabendo que cada período de tempo custa R$ 3,00, o valor total gasto com créditos
+será de
+460 perıodos × R$3,00/perıodo = R$ 1.380,00",
+"image": "",
+},
+{
+"question": " A loja Telas & Molduras cobra 20 reais por metro quadrado de tela,
+15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais.
+Uma artista plástica precisa encomendar telas e molduras a essa loja, suficientes
+para 8 quadros retangulares (25cm × 50cm). Em seguida, fez uma segunda
+encomenda, mas agora para 8 quadros retangulares (50cm × 100cm). O valor da
+segunda encomenda será",
+"answerA": "O dobro do valor da primeira encomenda, porque a altura e a largura
+dos quadros dobraram.",
+"answerB": "Maior do que o valor da primeira encomenda, mas não o dobro.",
+"answerC": "A metade do valor da primeira encomenda, porque a altura e a
+largura dos quadros dobraram.",
+"answerD": "Menor do que o valor da primeira encomenda, mas não a metade.",
+"answerE": "Igual ao valor da primeira encomenda, porque o custo de entrega
+será o mesmo.",
+"correctAnswer": "B",
+"correctAnswermessage": "A resposta correta é Maior do que o valor da
+primeira encomenda, mas não o dobro. Vamos entender o porquê:
+Na primeira encomenda, cada quadro tem uma área de
+0,25m×0,50m=0,125m2
+e um perímetro de
+2(0,25m+0,50m)=1,5m
+. Portanto, o custo total para um quadro é de
+20reais/m2 × 0,125m2 + 15reais/m × 1,5m = 2,5reais + 22,5reais = 25reais
+Como são 8 quadros, o custo total da primeira encomenda é de
+8×25reais+10reais=210reais
+.
+Na segunda encomenda, cada quadro tem uma área de
+50m×1,00m=0,50m2
+e um perímetro de
+2(0,50m+1,00m)=3,0m
+. Portanto, o custo total para um quadro é de
+20reais/m2 × 0,50m2 + 15reais / m×3,0m = 10reais + 45reais = 55reais
+. Como são 8 quadros, o custo total da segunda encomenda é de
+8 × 55reais + 10reais = 450reais
+.
+Portanto, o valor da segunda encomenda é maior do que o valor da primeira
+encomenda, mas não o dobro (pois
+2 × 210 reais = 420 reais
+, que é menor que
+450reais ).",
+"image": "",
+},
+{
+"question": "Um médico está estudando um novo medicamento que combate um
+tipo de câncer em estágios avançados. Porém, devido ao forte efeito dos seus
+componentes, a cada dose administrada há uma chance de 10% de que o paciente
+sofra algum dos efeitos colaterais observados no estudo, tais como dores de
+cabeça, vômitos ou mesmo agravamento dos sintomas da doença. O médico
+oferece tratamentos compostos por 3, 4, 6, 8 ou 10 doses do medicamento, de
+acordo com o risco que o paciente pretende assumir.
+Se um paciente considera aceitável um risco de até 35% de chances de que ocorra
+algum dos efeitos colaterais durante o tratamento, qual é o maior número admissıvel ́
+de doses para esse paciente?",
+"answerA": "3 doses.",
+"answerB": "4 doses.",
+"answerC": "6 doses.",
+"answerD": "8 doses.",
+"answerE": "10 doses.",
+"correctAnswer": "B",
+"correctAnswermessage": "A resposta correta é 4 doses. Vamos entender o
+porquê:
+A probabilidade de um paciente sofrer algum efeito colateral após uma dose do
+medicamento é de 10%, ou seja, 0,10. Portanto, a probabilidade de um paciente não
+sofrer nenhum efeito colateral após uma dose do medicamento é de 1 - 0,10 = 0,90.
+Se um paciente toma n doses do medicamento, a probabilidade de não sofrer
+nenhum efeito colateral após todas as doses é de 0, 90 .
+𝑛
+O paciente considera aceitável um risco de até 35% (ou seja, uma probabilidade de
+0,35) de que ocorra algum efeito colateral durante o tratamento. Portanto, o paciente
+considera aceitável uma probabilidade de 1 - 0,35 = 0,65 de não sofrer nenhum
+efeito colateral durante o tratamento.
+Queremos encontrar o maior número n de doses tal que 0, 90 ≥ 0,65. Resolvendo 𝑛
+essa inequação para n, obtemos n ≤ 𝑙𝑜𝑔 (0,65) ≈4,16. Como o número de doses
+0,90
+deve ser um número inteiro, o maior número admissível de doses para esse
+paciente é 4 doses.",
+"image": "",
+},
+{
+"question": "(Enem 2020) Uma empresa avaliou os cinco aparelhos de celulares
+(T1, T2, T3, T4 e T5) mais vendidos no último ano, nos itens: câmera, custo-benefí
+cio, design, desempenho da bateria e tela, representados por I1, I2, I3, I4 e I5,
+respectivamente. A empresa atribuiu notas de 0 a 10 para cada item avaliado e
+organizou essas notas em uma matriz A, em que cada elemento aij significa a nota
+dada pela empresa ao aparelho Ti no item Ij. A empresa considera que o melhor
+aparelho de celular é aquele que obtém a maior soma das notas obtidas nos cinco
+itens avaliados.
+Com base nessas informações, o aparelho de celular que a empresa avaliou como
+sendo o melhor é o
+",
+"answerA": "T1.",
+"answerB": "T2.",
+"answerC": "T3.",
+"answerD": "T4.",
+"answerE": "T5",
+"correctAnswer": "C",
+"correctAnswermessage": "Para determinar qual aparelho de celular a empresa
+avaliou como sendo o melhor, precisamos somar as notas de cada aparelho nos
+cinco itens avaliados. A matriz A representa as notas dos aparelhos T1, T2, T3 e T4
+nos itens I1 a I5.
+As somas das notas para cada aparelho são:
+● T1: 6 + 9 + 9 + 9 + 8 = 41
+● T2: 9 + 6 + 7 + 8 + 10 = 40
+● T3: 7 + 10 + 10 + 7 + 10 = 44
+● T4: 8 + 8 + 8 + 9 + 9 = 42
+Portanto, o aparelho T3 é o que a empresa avaliou como sendo o melhor, pois
+obteve a maior soma das notas nos cinco itens avaliados.",
+"image": "quizmatematicamatrizq1",
+},
+{
+"question": "(Enem 2020) No período de fim de ano, o síndico de um condomínio
+resolveu colocar, em um poste, uma iluminação natalina em formato de cone,
+lembrando uma árvore de Natal, conforme as figuras 1 e 2.
+A árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas
+segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de
+altura no poste até um ponto de uma circunferência de fixação, no chão, de tal
+forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C
+(centro da circunferência) perpendicularmente ao plano do chão.
+Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos
+anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais
+ele decide usar exatamente 100 m e deixar o restante como reserva.
+Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de",
+"answerA": "4,00.",
+"answerB": "4,87.",
+"answerC": "5,00.",
+"answerD": "5,83.",
+"answerE": "6,26.",
+"correctAnswer": "A",
+"correctAnswermessage": "A árvore de Natal será feita com mangueiras de
+iluminação que formam segmentos de reta do topo do poste até a circunferência no
+chão. Como o poste tem 3 metros de altura e as mangueiras serão divididas em 20
+segmentos iguais, cada segmento terá um comprimento de 100 m / 20 = 5 m.
+Como estamos lidando com um cone, o comprimento da mangueira é a hipotenusa
+de um triângulo retângulo, onde a altura do poste é um dos lados e o raio da
+circunferência é o outro lado. Usando o teorema de Pitágoras, temos:
+5 =
+2
+3
+2
++ 𝑟
+2
+Resolvendo para r (o raio da circunferência), obtemos:
+r= = = 4
+2
+5 . 5 − 3 . 3
+2
+16
+Portanto, o raio da circunferência deve ser de 4,00 metros.",
+"image": "matematicageometricanaliticaq1",
+},
+{
+"question": " (Enem 2020) Uma das Sete Maravilhas do Mundo Moderno é o
+Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México.
+Geometricamente, esse templo pode ser representado por um tronco reto de
+pirâmide de base quadrada.
+As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide
+são",
+"answerA": "2 quadrados e 4 retângulos.",
+"answerB": "1 retângulo e 4 triângulos isósceles.",
+"answerC": "2 quadrados e 4 trapézios isósceles.",
+"answerD": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
+"answerE": "2 retângulos, 2 quadrados e 2 trapézios retângulos.",
+"correctAnswer": "C",
+"correctAnswermessage": "Um tronco de pirâmide de base quadrada é formado
+por duas bases que são quadrados (um maior na parte inferior e um menor na parte
+superior) e quatro faces laterais que são trapézios isósceles (cada um com uma
+base no quadrado maior, uma base no quadrado menor e dois lados iguais
+inclinados). Portanto, a resposta correta é 2 quadrados e 4 trapézios isósceles.",
+"image": "",
+},
+{
+"question": " (Enem 2020) Uma loja de materiais de construção vende dois tipos
+de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo
+volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água
+do tipo A.
+Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B
+é",
+"answerA": "R/2",
+"answerB": "2R",
+"answerC": "4R",
+"answerD": "5R",
+"answerE": "16R",
+"correctAnswer": "B",
+"correctAnswermessage": "O volume de um cilindro é dado pela fórmula
+V=π. 𝑟 . h
+2
+, onde
+r
+é o raio e
+h
+é a altura. Como as caixas-d’água dos tipos A e B têm o mesmo volume, podemos
+igualar as duas expressões para o volume:
+Para a caixa-d’água do tipo A, temos
+VA= π.𝑟 . hA 2
+. Para a caixa-d’água do tipo B, cuja altura é 25% da altura da caixa A (ou seja,
+hB = 0.25. hA
+) e cujo raio é
+rB
+, temos
+VB = π. 𝑟 B. (0.25hA)
+2
+.
+Igualando
+VA=VB
+, obtemos:
+π. 𝑟 hA = π B (0.25hA)
+2
+. . 𝑟
+2
+Simplificando a equação, encontramos que o raio da caixa-d’água do tipo B é:
+rB = 𝑅 = 2R 2
+4
+Portanto, a resposta correta é 2R.",
+"image": "",
+},
+{
+"question": "(Enem PPL 2020) Um piscicultor cria uma espécie de peixe em um
+tanque cilíndrico. Devido às características dessa espécie, o tanque deve ter,
+exatamente, 2 metros de profundidade e ser dimensionado de forma a comportar 5
+peixes para cada metro cúbico de água. Atualmente, o tanque comporta um total de
+750 peixes. O piscicultor deseja aumentar a capacidade do tanque para que ele
+comporte 900 peixes, mas sem alterar a sua profundidade. Considere 3 como
+aproximação para.
+O aumento da medida do raio do tanque, em metro, deve ser de",
+"answerA": "√30 − 5",
+"answerB": "√30 − 5/2",
+"answerC": "5",
+"answerD": "5/2",
+"answerE": "15/2",
+"correctAnswer": "A",
+"correctAnswermessage": "O volume de um cilindro é dado pela fórmula
+V = π. 𝑟 . h
+2
+, onde
+r
+é o raio e
+h
+é a altura. No caso do tanque, a altura é fixa em 2 metros.
+Atualmente, o tanque comporta 750 peixes, com 5 peixes para cada metro cúbico
+de água. Portanto, o volume atual do tanque é de
+750/5 = 150
+metros cúbicos.
+O piscicultor deseja aumentar a capacidade do tanque para 900 peixes, o que
+requer um volume de
+900/5 = 180
+metros cúbicos.
+Usando a fórmula do volume do cilindro e considerando
+π≈3
+, temos:
+Para o volume atual:
+150= 3. 𝑟 ∗ 2⇒ = 150/6 =25 ⇒ = √25 = 5
+1
+2
+𝑟
+1
+2
+𝑟
+1
+Para o volume desejado:
+180 = 𝑟 ∗2 ⇒ = 180/6 = 30 ⇒ =√30
+2
+2
+𝑟
+2
+2
+𝑟
+2
+Portanto, o aumento necessário no raio do tanque é
+r2−r1 = √30 −5
+. Portanto, a resposta correta é √30 − 5.",
+"image": "",
+},
+{
+"question": "(Enem Digital 2020) Os tempos gastos por três alunos para resolver
+um mesmo exercício de matemática foram: 3,25 minutos; 3,4 minutos e 191
+segundos.
+O tempo gasto a mais, em segundo, pelo aluno que concluiu por último a resolução
+do exercício, em relação ao primeiro que o finalizou, foi igual a",
+"answerA": "13.",
+"answerB": "14.",
+"answerC": "15.",
+"answerD": "21.",
+"answerE": "29.",
+"correctAnswer": "A",
+"correctAnswermessage": "Primeiro, precisamos converter todos os tempos para
+a mesma unidade. Vamos usar segundos para isso. Sabendo que 1 minuto é igual a
+60 segundos, temos:
+● O primeiro aluno levou
+3,25 minutos=3,25×60=195 segundos
+.
+● O segundo aluno levou
+3,4 minutos=3,4×60=204 segundos
+.
+● O terceiro aluno levou 191 segundos.
+O aluno que concluiu por último levou 204 segundos e o que concluiu primeiro levou
+191 segundos. Portanto, o tempo gasto a mais pelo aluno que concluiu por último foi
+de
+204−191=13 segundos
+. Portanto, a resposta correta é 13.",
+"image": "",
+},
+{
+"question": "(Enem PPL 2020) Foi feita uma pesquisa sobre a escolaridade dos
+funcionários de uma empresa. Verificou-se que 1/4 dos homens que ali trabalham
+têm o ensino médio completo, enquanto 2/3 das mulheres que trabalham na
+empresa têm o ensino médio completo. Constatou-se, também, que entre todos os
+que têm o ensino médio completo, metade são homens.
+A fração que representa o número de funcionários homens em relação ao total de
+funcionários dessa empresa é",
+"answerA": "1/8",
+"answerB": "3/11",
+"answerC": "11/24",
+"answerD": "2/3",
+"answerE": "8/11",
+"correctAnswer": "E",
+"correctAnswermessage": "Vamos chamar o número total de homens na empresa
+de H e o número total de mulheres de M. Sabemos que 1/4 dos homens e 2/3 das
+mulheres têm o ensino médio completo. Além disso, metade dos funcionários com
+ensino médio completo são homens. Portanto, podemos escrever as seguintes
+equações:
+¼ H= ½ (¼ H +⅔ M)
+⅔ M= ½ (¼ H+⅔ M)
+Resolvendo essas equações, encontramos que H = 8M/11.
+Portanto, a fração que representa o número de funcionários homens em relação ao
+total de funcionários dessa empresa é H/(H+M) = 8M/11 / (8M/11 + M) = 8/11.
+Portanto, a resposta correta é 8/11.",
+"image": "",
+},
+{
+"question": "(Enem 2019) Em um condomínio, uma área pavimentada, que tem a
+forma de um círculo com diâmetro medindo 6 m, é cercada por grama. A
+administração do condomínio deseja ampliar essa área, mantendo seu formato
+circular, e aumentando, em 8 m, o diâmetro dessa região, mantendo o revestimento
+da parte já existente. O condomínio dispõe, em estoque, de material suficiente para
+pavimentar mais 100 m² de área.
+O síndico do condomínio irá avaliar se esse material disponível será suficiente para
+pavimentar a região a ser ampliada.
+Utilize 3 como aproximação para π.
+A conclusão correta a que o síndico deverá chegar, considerando a nova área a ser
+pavimentada, é a de que o material disponível em estoque",
+"answerA": "Será suficiente, pois a área da nova região a ser pavimentada mede
+21 m2.",
+"answerB": "Será suficiente, pois a área da nova região a ser pavimentada mede
+24 m2.",
+"answerC": "Será suficiente, pois a área da nova região a ser pavimentada mede
+48 m2.",
+"answerD": "Não será suficiente, pois a área da nova região a ser pavimentada
+mede 108 m2.",
+"answerE": "Não será suficiente, pois a área da nova região a ser pavimentada
+mede 120 m2.",
+"correctAnswer": "E",
+"correctAnswermessage": "A área de um círculo é dada pela fórmula
+A= π .𝑟
+2
+, onde
+r
+é o raio do círculo. No caso do círculo original, o diâmetro é de 6 metros, então o
+raio é de 3 metros. Portanto, a área original é
+A1=π (3) = 9π 2
+metros quadrados.
+O diâmetro do círculo ampliado será de 6 + 8 = 14 metros, então o raio será de 7
+metros. Portanto, a área ampliada será
+A2 = π . (7) = 49π 2
+metros quadrados.
+A nova região a ser pavimentada será a diferença entre as duas áreas, ou seja,
+A2 − A1 = 49π − 9π = 40π
+metros quadrados. Usando a aproximação
+π≈3
+, temos que a nova região a ser pavimentada mede aproximadamente
+40∗3=120
+metros quadrados.
+Portanto, o material disponível em estoque não será suficiente, pois a área da nova
+região a ser pavimentada mede 120 m². Portanto, a resposta correta é Não será
+suficiente, pois a área da nova região a ser pavimentada mede 120 m².",
+"image": "",
+},
+{
+"question": " Um túnel deve ser lacrado com uma tampa de concreto. A seção
+transversal do túnel e a tampa de concreto têm contornos de um arco de parábola e
+mesmas dimensões. Para determinar o custo da obra, um engenheiro deve calcular
+a área sob o arco parabólico em questão. Usando o eixo horizontal no nível do chão
+e o eixo de simetria da parábola como eixo vertical, obteve a seguinte equação para
+a parábola: y = 9 – x 2, sendo x e y medidos em metros.
+Sabe-se que a área sob uma parábola como esta é igual a ⅔ da área do retângulo
+cujas dimensões são, respectivamente, iguais à base e à altura da entrada do túnel.
+Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
+"answerA": "18",
+"answerB": "20",
+"answerC": "36",
+"answerD": "45",
+"answerE": "54",
+"correctAnswer": "C",
+"correctAnswermessage": "A equação da parábola dada é
+y = 9−x2
+. O vértice da parábola é o ponto mais alto, que ocorre quando
+x=0
+. Substituindo
+x=0
+na equação, obtemos
+y=9
+, que é a altura da entrada do túnel.
+A base da entrada do túnel é determinada pelos pontos onde a parábola cruza o
+eixo x, ou seja, onde
+y=0
+. Resolvendo a equação
+9−𝑋 = 0
+2
+, obtemos
+x = −3
+e
+x=3
+. Portanto, a base da entrada do túnel é de 6 metros.
+A área do retângulo formado pela base e altura da entrada do túnel é então
+6 m × 9 m=54 𝑚
+2
+. Como a área sob a parábola é
+2/3
+da área do retângulo, a área da parte frontal da tampa de concreto é
+2/3 ×54𝑚 =36 .
+2
+𝑚
+2
+Portanto, a resposta correta é 36.",
+"image": "",
+},
+{
+"question": " O prefeito de uma cidade deseja promover uma festa popular no
+parque municipal para comemorar o aniversário de fundação do município. Sabe-se
+que esse parque possui formato retangular, com 120 m de comprimento por 150 m
+de largura. Além disso, para segurança das pessoas presentes no local, a polícia
+recomenda que a densidade média, num evento dessa natureza, não supere quatro
+pessoas por metro quadrado.
+Seguindo as recomendações de segurança estabelecidas pela polícia, qual é o
+número máximo de pessoas que poderão estar presentes na festa?",
+"answerA": "1 000",
+"answerB": "4 500",
+"answerC": "18 000",
+"answerD": "72 000",
+"answerE": "120 000",
+"correctAnswer": "D",
+"correctAnswermessage": "A área do parque é dada pelo produto do comprimento
+pela largura, ou seja,
+120m×150m=18000m2
+. Como a densidade média recomendada é de 4 pessoas por metro quadrado, o
+número máximo de pessoas que podem estar presentes na festa é
+18000m2 × 4pessoas/m2 = 72000
+pessoas. Portanto, a resposta correta é 72 000.",
+"image": "",
+},
+{
+"question": "A figura é uma representação simplificada do carrossel de um parque
+de diversões, visto de cima. Nessa representação, os cavalos estão identificados
+pelos pontos escuros, e ocupam circunferências de raios 3 m e 4 m,
+respectivamente, ambas centradas no ponto O. Em cada sessão de funcionamento,
+o carrossel efetua 10 voltas.
+Quantos metros uma criança sentada no cavalo C1 percorrerá a mais do que uma
+criança no cavalo C2 , em uma sessão? Use 3,0 como aproximação para S.",
+"answerA": "55,5",
+"answerB": "60,0",
+"answerC": "175,5",
+"answerD": "235,5",
+"answerE": "240,0",
+"correctAnswer": "B",
+"correctAnswermessage": "A distância percorrida por uma criança em uma volta
+do carrossel é igual à circunferência do círculo em que o cavalo está localizado. A
+circunferência de um círculo é dada pela fórmula
+C = 2. π. r
+, onde
+r
+é o raio do círculo.
+Para o cavalo C1, que está em uma circunferência de raio 4 m, a distância
+percorrida em uma volta é
+C1=2×3×4=24 m
+Para o cavalo C2, que está em uma circunferência de raio 3 m, a distância
+percorrida em uma volta é
+C2= 2×3×3 = 18 m
+Portanto, em uma volta, a criança no cavalo C1 percorre
+24−18 = 6 m
+a mais do que a criança no cavalo C2.
+Como o carrossel efetua 10 voltas em cada sessão, a criança no cavalo C1
+percorrerá
+6 m/volta × 10 voltas = 60 m
+a mais do que a criança no cavalo C2 em uma sessão. Portanto, a resposta correta
+é 60,0.",
+"image": "",
+},
+{
+"question": "Diariamente, uma residência consome 20 160 Wh. Essa residência
+possui 100 células solares retangulares (dispositivos capazes de converter a luz
+solar em energia elétrica) de dimensões 6 cm x 8 cm. Cada uma das tais células
+produz, ao longo do dia, 24 Wh por centímetro de diagonal. O proprietário dessa
+residência quer produzir, por dia, exatamente a mesma quantidade de energia que
+sua casa consome.
+Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
+"answerA": "Retirar 16 células.",
+"answerB": "Retirar 40 células.",
+"answerC": "Acrescentar 5 células.",
+"answerD": "Acrescentar 20 células.",
+"answerE": "Acrescentar 40 células",
+"correctAnswer": "A",
+"correctAnswermessage": "Primeiro, vamos calcular a diagonal de cada célula
+solar usando o teorema de Pitágoras. A diagonal
+d
+é dada por
+d = = 10cm 2
+6. 6 + 8. 8
+Cada célula produz
+24Wh/cm × 10cm = 240Wh
+por dia.
+Com 100 células, a produção total seria de
+240Wh/celula × 100celulas=24.000Wh
+ou 24.000 Wh por dia.
+Como a residência consome 20.160 Wh por dia, o proprietário está produzindo mais
+energia do que o necessário. Portanto, ele precisa reduzir o número de células
+solares.
+A diferença entre a produção atual e o consumo é de
+24.000Wh − 20.160Wh = 3.840Wh
+Como cada célula produz 240 Wh por dia, o proprietário precisa retirar
+3.840Wh / 240Wh / célula= 16
+células.
+Portanto, a ação correta é Retirar 16 células.",
+"image": "",
+},
+{
+"question": "Uma pessoa usa um programa de computador que descreve o
+desenho da onda sonora correspondente a um som escolhido. A equação da onda é
+dada, num sistema de coordenadas cartesianas, por y = a • sen[b(x + c)], em que os
+parâmetros a, b, c são positivos. O programa permite ao usuário provocar
+mudanças no som, ao fazer alterações nos valores desses parâmetros. A pessoa
+deseja tornar o som mais agudo e, para isso, deve diminuir o período da onda.
+O(s) único(s) parâmetro(s) que necessita(m) ser alterado(s) é(são)",
+"answerA": "A",
+"answerB": "B",
+"answerC": "C",
+"answerD": "A e b",
+"answerE": "B e c",
+"correctAnswer": "B",
+"correctAnswermessage": "Na equação de uma onda senoidal
+y =a⋅sen[b(x+c)]
+, o parâmetro
+b
+está relacionado ao período da onda. O período de uma onda senoidal é dado por
+T = 2π / b
+. Portanto, para diminuir o período da onda e tornar o som mais agudo, é necessário
+aumentar o valor de
+b
+. Os parâmetros
+a
+e
+c
+não afetam o período da onda. Portanto, o único parâmetro que precisa ser alterado
+é B.
+",
+"image": "",
+},
+]

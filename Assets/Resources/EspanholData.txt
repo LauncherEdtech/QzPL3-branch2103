@@ -1,0 +1,849 @@
+[
+ {
+"question": " Adelfos
+Yo soy como las gentes que a mi tierra vinieron — soy de la raza mora, vieja amiga
+del sol —, que todo lo ganaron y todo lo perdieron. Tengo el alma de nardo del
+árabe español.
+MACHADO, M. Disponível em: www.poetasandaluces.com. Acesso em: 22 out. 2015 (fragmento).
+Nessa estrofe, o poeta e dramaturgo espanhol Manuel Machado reflete acerca",
+"answerA": "De sua formação identitária plural.",
+"answerB": "Da condição nômade de seus antepassados.",
+"answerC": "Da perda sofrida com o processo de migração.",
+"answerD": "Da dívida do povo espanhol para com o povo árabe.",
+"answerE": "De sua identificação com os elementos da natureza.",
+"correctAnswer": "A",
+"correctAnswermessage": "Nessa estrofe, Manuel Machado parece refletir sobre sua
+formação identitária plural. Ele se identifica com a “raza mora”, uma referência aos mouros
+que habitaram a Espanha durante a Idade Média. Ao mesmo tempo, ele se descreve como
+“vieja amiga del sol”, sugerindo uma conexão com a terra e seus elementos naturais. Além
+disso, ele menciona ter “el alma de nardo del árabe español”, indicando uma mistura de
+influências culturais em sua identidade.
+Machado era conhecido por sua poesia popular inspirada no folclore tradicional, e essa
+estrofe parece refletir essa tendência. Através de suas palavras, ele expressa uma
+identidade complexa e multifacetada, formada por várias influências culturais e históricas.
+As outras opções também podem ser interpretadas a partir do texto, mas a opção “De sua
+formação identitária plural” parece ser a mais abrangente e precisa para descrever o tema
+principal da estrofe.",
+"image": "",
+},
+{
+"question": " Millennials: Así es la generación que ya no recuerda cómo era el
+mundo sin Internet
+Algunos los llaman generación Y, otros “Millennials”, generación del milenio o
+incluso “Echo Boomers”.
+Nacieron y crecieron en una era de rápido desarrollo de las nuevas tecnologías, y
+casi no recuerdan cómo era el mundo sin Internet.
+Son idealistas, impacientes y están bien preparados académicamente. Muchos de
+ellos han tenido oportunidad de viajar por el mundo a una edad temprana, de
+estudiar en las mejores universidades y de trabajar en empresas multinacionales y
+extranjeras.
+La generación Y se compone de este tipo de personas que quieren todo a la vez. No
+están dispuestos a soportar un trabajo poco interesante y rutinario, no quieren dejar
+las cosas buenas para luego. Lo que sí quieren es dejar su huella en la historia, vivir
+una vida interesante, formar parte de algo grande, crecer y desarrollarse, cambiar el
+mundo que les rodea, y no solo ganar dinero.
+Disponível em: https://actualidad.rt.com. Acesso em: 4 dez. 2018.
+O texto aponta características e interesses da “Geração Y”. Nele, a expressão dejar
+su huella refere-se a um dos desejos dessa geração, que é o de",
+"answerA": "Conhecer diferentes lugares.",
+"answerB": "Fazer a diferença no mundo.",
+"answerC": "Aproveitar todas as oportunidades.",
+"answerD": "Obter uma formação acadêmica de excelência.",
+"answerE": "Conquistar boas colocações no mundo do trabalho.",
+"correctAnswer": "B",
+"correctAnswermessage": "No texto, a expressão “dejar su huella” refere-se ao desejo da
+Geração Y de fazer a diferença no mundo. A Geração Y, ou Millennials, é descrita como
+idealista e impaciente, com um forte desejo de viver uma vida interessante, fazer parte de
+algo grande e mudar o mundo ao seu redor. Eles não estão interessados apenas em ganhar
+dinheiro, mas também em deixar sua marca na história. Portanto, a expressão “dejar su
+huella” pode ser interpretada como um desejo de causar um impacto significativo ou fazer a
+diferença no mundo.",
+"image": "",
+},
+{
+"question": "(Enem 2019) Que hay de cierto en la fábula de la cigarra y la hormiga
+Cuenta una conocida fábula que, tras pasar todo un verano cantando y ociosa, una
+cigarra se encontró sin alimento y decidió pedir a su vecina, la hormiga algo que
+llevarse a la boca. Esta le ofreció granos de arroz acompañados de una moraleja:
+más vale prevenir que lamentar. ¿Merecen su fama de previsoras y afanosas las
+hormigas? Sin duda. Las hormigas cortadoras de hojas (Atta cephalotes), por
+ejemplo, son consideradas las primeras agricultoras del planeta, dedicadas a cortar,
+acarrear e integrar hojas en el jardín de hongos del que se alimentan. Otro dato
+curioso es que se ha comprobado que, prácticamente en todas las especies de
+hormigas, las más ancianas asumen trabajos de mayor riesgo. De acuerdo con
+Dawid Moron de la Universidad de Jagiellonian (Polonia), esto se debe a que es
+mejor para la colonia sacrificar una vida que está cerca de su fin que a un individuo
+joven.
+En cuanto a las cigarras, no se les puede acusar de perezosas. Lo que sí es cierto
+es que los machos pasan el verano “cantando” — un sonido que producen con unas
+membranas llamadas timbales — y encaramados a un árbol, de cuya savia se
+alimentan.
+Disponível em: www.muyinteresante.es.
+Acesso em: 31 out. 2012 (adaptado).
+A fábula é um gênero de ampla divulgação frequentemente revisitado com diversos
+objetivos. No texto, a fábula A cigarra e a formiga é retomada para",
+"answerA": "Apresentar ao leitor um ensinamento moral.",
+"answerB": "Reforçar o estereótipo associado às cigarras.",
+"answerC": "Descrever o comportamento dos insetos na natureza.",
+"answerD": "Expor a superioridade das formigas em relação às cigarras.",
+"answerE": "Descrever a relação social entre formigas e cigarras na
+natureza.",
+"correctAnswer": "C",
+"correctAnswermessage": "No texto, a fábula “A cigarra e a formiga” é retomada para
+descrever o comportamento dos insetos na natureza. A fábula é usada como ponto de
+partida para explorar as características reais das formigas e das cigarras. As formigas são
+descritas como previsoras e trabalhadoras, com as mais velhas assumindo trabalhos de
+maior risco. As cigarras, por outro lado, não são retratadas como preguiçosas, mas sim
+como criaturas que passam o verão “cantando”. Portanto, a fábula é usada aqui não para
+apresentar uma moral ou reforçar estereótipos, mas para explorar e descrever o
+comportamento real desses insetos na natureza.",
+"image": "",
+},
+{
+"question": "(Enem 2019) El Hombre Electrónico
+¿Cuántas veces has cambiado de móvil? ¿Cuántos ordenadores has tenido ya?
+¿Tienes cámara digital, IPOD, Nintendo Wii y televisión de pantalla de plasma?
+Ordenadores, teléfonos móviles, GPS, walkmans, televisiones, lavadoras,
+tostadores, aspiradores y un larguísimo etcétera. Todos usamos aparatos eléctricos
+que tarde o temprano se convertirán en residuos. El Hombre Electrónico mide 7
+metros de altura y pesa 3,3 toneladas. Es una escultura hecha con la cantidad de
+residuos eléctricos y electrónicos que un ciudadano medio (en el Reino Unido) tirará
+a la basura a lo largo de su vida, si se sigue consumiendo este tipo de productos al
+ritmo actual. El Hombre Electrónico ha sido diseñado por el escultor Paul Bomini con
+objetivo de aumentar la conciencia de los ciudadanos a la hora de consumir
+aparatos eléctricos. Esta campaña parte de la base de que todos compramos
+aparatos electrónicos como herramientas de trabajo u ocio, pero haciéndonos unas
+cuantas preguntas podemos inducir cambios en nuestro comportamiento que
+beneficiarán al medio ambiente, otras personas y a nosotros mismos: ¿Tienes algún
+aparato eléctrico o electrónico que no necesitas? ¿Podrías ser más responsable a la
+hora de comprar un nuevo producto electrónico? ¿Podrías reciclar o reparar estos
+productos una vez que se han quedado obsoletos o se han roto? ¿Intentas ahorrar
+energia en tu vida diaria?
+Disponível em: www.verdecito.es. Acesso em: 20 fev. 2009 (adaptado).
+Considerando a necessidade de assumir uma conduta mais responsável com o
+meio ambiente, Paul Bomini criou a escultura O homem eletrônico para",
+"answerA": "Incentivar inovações em reciclagem para a construção de
+máquinas.",
+"answerB": "Propor a criação de objetos a partir de aparelhos descartados.",
+"answerC": "Divulgar o lançamento de produtos eletrônicos sustentáveis.",
+"answerD": "Problematizar o descarte inconsequente de equipamentos.",
+"answerE": "Alertar sobre as escolhas tecnológicas da população.",
+"correctAnswer": "D",
+"correctAnswermessage": "Paul Bomini criou a escultura “O Homem Eletrônico” para
+problematizar o descarte inconsequente de equipamentos. A escultura, feita com a
+quantidade de resíduos elétricos e eletrônicos que um cidadão médio descartará ao longo
+de sua vida, serve como um lembrete visual do impacto ambiental do consumo de
+eletrônicos. O objetivo de Bomini é aumentar a consciência dos cidadãos sobre o consumo
+de aparelhos elétricos e encorajar um comportamento mais responsável, incluindo a
+reciclagem e reparação de produtos obsoletos ou quebrados. Portanto, a escultura serve
+para destacar o problema do descarte irresponsável de equipamentos eletrônicos.",
+"image": "",
+},
+{
+"question": "(Enem 2018) El día en que lo iban a matar, Santiago Nasar se levantó
+a las 5:30 de la mañana para esperar el buque en que llegaba el obispo. Había
+soñado que atravesaba un bosque de higuerones donde caía una llovizna tierna, y
+por un instante fue feliz en el sueño, pero al despertar se sintió por completo
+salpicado de cagada de pájaros. “Siempre soñaba con árboles”, me dijo Plácida
+Linero, su madre, evocando 27 años después los pormenores de aquel lunes
+ingrato. “La semana anterior había soñado que iba solo en un avión de papel de
+estaño que volaba sin tropezar por entre los almendros”, me dijo. Tenía una
+reputación muy bien ganada de intérprete certera de los sueños ajenos, siempre
+que se los contaran en ayunas, pero no había advertido ningún augurio aciago en
+esos dos sueños de su hijo, ni en los otros sueños con árboles que él le había
+contado en las mañanas que precedieron a su muerte.
+MARQUEZ, G. G. Crónica de una muerte anunciada. Disponível em: http://biblio3.url.edu.gt. Acesso
+em: 2 jan. 2015.
+Na introdução do romance, o narrador resgata lembranças de Plácida Linero
+relacionadas a seu filho Santiago Nasar. Nessa introdução, o uso da expressão
+augurio aciago remete ao(à)",
+"answerA": "Elação mística que se estabelece entre Plácida e seu filho
+Santiago.",
+"answerB": "Destino trágico de Santiago, que Plácida foi incapaz de prever
+nos sonhos.",
+"answerC": "Descompasso entre a felicidade de Santiago nos sonhos e seu
+azar na realidade.",
+"answerD": "Crença de Plácida na importância da interpretação dos sonhos
+para mudar o futuro.",
+"answerE": "Presença recorrente de elementos sombrios que se revelam nos
+sonhos de Santiago.",
+"correctAnswer": "B",
+"correctAnswermessage": "A expressão “augurio aciago” no texto remete ao destino
+trágico de Santiago, que Plácida foi incapaz de prever nos sonhos. A mãe de Santiago,
+Plácida Linero, era conhecida por sua habilidade em interpretar sonhos, mas não conseguiu
+prever nenhum presságio sinistro nos sonhos de seu filho que antecederam sua morte.
+Portanto, a expressão destaca a ironia da situação: apesar de sua habilidade em interpretar
+sonhos, Plácida não conseguiu prever o destino trágico de seu próprio filho.",
+"image": "",
+},
+{
+"question": " (Enem 2018) Revolución en la arquitectura china
+Levantar rascacielos en 19 días
+Un rascacielos de 57 pisos no llama la atención en la China del siglo XXI. Salvo que
+se haya construido en 19 días, claro. Y eso es precisamente lo que ha conseguido
+Broad Sustainable Building (BSB), una empresa dedicada a la fabricación de
+purificadores de aire y de equipos de aire acondicionado para grandes
+infraestructuras que ahora se ha empeñado en liderar una revolución con su propio
+modelo de arquitectura modular prefabricada. Como subraya su presidente, Zhang
+Yue, es una fórmula económica, ecológica segura, y limpia. Ese último término,
+además, lo utiliza tanto para referirse al polvo que se produce en la construcción
+como a los gruesos sobres que suelen circular por debajo de las mesas en
+adjudicaciones y permisos varios. “Quiero que nuestros edificios alumbren una
+nueva era en la arquitectura, y que se conviertan en símbolo de la lucha contra la
+contaminación y el cambio climático, que es la mayor amenaza a la que se enfrenta
+la humanidad”, sentencia.
+“Es como montar un Lego. Apenas hay subcontratación, lo cual ayuda a mantener
+un costo bajo y un control de calidad estricto, y nos permite eliminar también la
+corrupción inherente al sector”, explica la vicepresidenta de BSB y responsable del
+mercado internacional, Jiang Yan.
+Disponível em: http://tecnologia.elpais.com. Acesso em: 23 jun. 2015 (adaptado).
+No texto, alguns dos benefícios de se utilizar estruturas pré-moldadas na construção
+de altos edifícios estão expressos por meio da palavra limpia. Essa expressão indica
+que, além de produzir menos resíduos, o uso desse tipo de estrutura",
+"answerA": "Reduz o contingente de mão de obra.",
+"answerB": "Inibe a corrupção na construção civil.",
+"answerC": "Facilita o controle da qualidade da obra.",
+"answerD": "Apresenta um modelo arquitetônico conciso.",
+"answerE": "Otimiza os custos da construção de edifícios.",
+"correctAnswer": "B",
+"correctAnswermessage": "No texto, a palavra “limpia” é usada para indicar que o uso de
+estruturas pré-moldadas na construção de altos edifícios inibe a corrupção na construção
+civil. A vice-presidente da BSB, Jiang Yan, explica que o uso de estruturas pré-moldadas
+reduz a subcontratação, o que ajuda a manter um controle de qualidade rigoroso e permite
+eliminar a corrupção inerente ao setor. Portanto, além de produzir menos resíduos, o uso
+desse tipo de estrutura também contribui para uma construção civil mais transparente e
+ética.",
+"image": "",
+},
+{
+"question": "(Enem 2018) ¿Qué es la X Solidaria?
+La X Solidaria es una equis que ayuda a las personas más vulnerables. Podrás
+marcarla cuando hagas la declaración de la renta. Es la casilla que se denomina
+“Fines Sociales”. Nosotros preferimos llamarla X Solidaria:
+Porque al marcada haces que se destine un 0,7 de tus impuestos a programas
+sociales que realizan las ONG.
+Porque se benefician los colectivos más desfavorecidos, sin ningún coste
+económico para ti.
+Porque NO marcarla es tomar una actitud pasiva, y dejar que sea el Estado quien
+decida el destino de esa parte de tus impuestos.
+Porque marcándola te conviertes en contribuyente activo solidario.
+Disponível em: http://xsolidaria.org. Acesso em: 20 fev. 2012 (adaptado).
+As ações solidárias contribuem para o enfrentamento de problemas sociais. No
+texto, a ação solidária ocorre quando o contribuinte",
+"answerA": "Delega ao governo o destino de seus impostos.",
+"answerB": "Escolhe projetos que terão isenção de impostos.",
+"answerC": "Destina parte de seus impostos para custeio de programas
+sociais.",
+"answerD": "Determina a criação de impostos para implantação de projetos
+sociais.",
+"answerE": "Seleciona vários programas para beneficiar cidadãos vulneráveis
+socialmente.",
+"correctAnswer": "C",
+"correctAnswermessage": "No texto, a ação solidária ocorre quando o contribuinte destina
+parte de seus impostos para custeio de programas sociais. Ao marcar a “X Solidaria” na
+declaração de imposto de renda, o contribuinte está direcionando 0,7% de seus impostos
+para programas sociais realizados por ONGs. Isso beneficia os grupos mais desfavorecidos
+e permite que o contribuinte tenha um papel ativo na destinação de uma parte de seus
+impostos, em vez de deixar essa decisão inteiramente para o Estado. Portanto, a ação
+solidária aqui está em usar uma parte dos impostos para apoiar causas sociais.",
+"image": "",
+},
+{
+"question": " (Enem 2018) ¿Cómo gestionar la diversidad lingüística en el aula?
+El aprendizaje de idiomas es una de las demandas de la sociedad en la escuela: los
+alumnos tienen que finalizar la escolarización con un buen conocimiento, por lo
+menos, de las tres lenguas curriculares: catalán, castellano e inglés (o francés,
+portugués…).
+La metodología que promueve el aprendizaje integrado de idiomas en la escuela
+tiene en cuenta las relaciones entre las diferentes lenguas: la mejor enseñanza de
+una lengua incide en la mejora de todas las demás. Se trata de educar en y para la
+diversidad lingüística y cultural.
+Por eso, la V Jornada de Buenas Prácticas de Gestión del Multilingüismo, que se
+celebrará en Barcelona, debatirá sobre la gestión del multilingüismo en el aula. El
+objetivo es difundir propuestas para el aprendizaje integrado de idiomas y presentar
+experiencias prácticas de gestión de la diversidad lingüística presente en las aulas.
+Disponível em: www10.gencat.cat. Acesso em: 15 set. 2010 (adaptado).
+Na região da Catalunha, Espanha, convivem duas línguas oficiais: o catalão e o
+espanhol. Além dessas, ensinam-se outras línguas nas escolas. De acordo com o
+texto, para administrar a variedade linguística nas aulas, é necessário",
+"answerA": "Ampliar o número de línguas ofertadas para enriquecer o
+conteúdo.",
+"answerB": "Divulgar o estudo de diferentes idiomas e culturas para atrair os
+estudantes",
+"answerC": "Privilegiar o estudo de línguas maternas para valorizar os
+aspectos regionais.",
+"answerD": "Explorar as relações entre as línguas estudadas para promover a
+diversidade.",
+"answerE": "Debater as práticas sobre multilinguismo para formar melhor os
+professores de línguas.",
+"correctAnswer": "D",
+"correctAnswermessage": "De acordo com o texto, para administrar a variedade
+linguística nas aulas, é necessário explorar as relações entre as línguas estudadas para
+promover a diversidade. A metodologia promovida na escola considera as relações entre as
+diferentes línguas, com a ideia de que a melhor educação em uma língua melhora todas as
+outras. O objetivo é educar na e para a diversidade linguística e cultural. Portanto, explorar
+as relações entre as línguas estudadas é uma parte essencial da gestão da diversidade
+linguística nas aulas.",
+"image": "",
+},
+{
+"question": " (Enem 2018) Mayo
+15
+Que mañana no sea otro nombre de hoy
+En el año 2011, miles de jóvenes, despojados de sus casas y de sus empleos,
+ocuparon las plazas y las calles de varias ciudades de España.
+Y la indignación se difundió. La buena salud resultó más contagiosa que las pestes,
+y las voces de los indignados atravesaron las fronteras dibujadas en los mapas. Así
+resonaron en el mundo:
+Nos dijeron “¡a la puta calle!”, y aquí estamos.
+Apaga la tele y enciende la calle.
+La llaman crisis, pero es estafa.
+No falta dinero: sobran ladrones.
+Los mercados gobiernan. Yo no los voté.
+Ellos toman decisiones por nosotros, sin nosotros.
+Se alquila esclavo económico.
+Estoy buscando mis derechos. ¿Alguien los ha visto?
+Si no nos dejan soñar, no los dejaremos dormir
+GALEANO, E. Los hijos de los dias. Buenos Aires: Siglo Veintiuno, 2012.
+Ao elencar algumas frases proferidas durante protestos na Espanha, o enunciador
+transcreve, de forma direta, as reivindicações dos manifestantes para",
+"answerA": "Provocá-los de forma velada.",
+"answerB": "Dar voz ao movimento popular.",
+"answerC": "Fomentar o engajamento do leitor.",
+"answerD": "Favorecer o diálogo entre governo e sociedade.",
+"answerE": "Instaurar dúvidas sobre a legitimidade da causa.",
+"correctAnswer": "B",
+"correctAnswermessage": "Ao listar algumas frases proferidas durante os protestos na
+Espanha, o enunciador transcreve, de forma direta, as reivindicações dos manifestantes
+para dar voz ao movimento popular. As frases citadas expressam a indignação e as
+demandas dos manifestantes, proporcionando uma visão direta de suas perspectivas e
+experiências. Ao fazer isso, o enunciador está amplificando suas vozes e destacando suas
+preocupações para um público mais amplo. Portanto, o objetivo é dar voz ao movimento
+popular, em vez de provocar os manifestantes, fomentar o engajamento do leitor, favorecer
+o diálogo entre governo e sociedade ou instaurar dúvidas sobre a legitimidade da causa.",
+"image": "",
+},
+{
+"question": " (Enem 2017) El carpintero
+Orlando Goicoechea reconoce las maderas por el olor, de qué árboles vienen, qué
+edad tienen, y oliéndolas sabe si fueron cortadas a tiempo o a destiempo y les
+adivina los posibles contratiempos.
+Al cabo de tantos años de trabajo, Orlando se ha dado el lujo de comprarse un
+video, y ve una película tras otra.
+No sabía que eras loco por cine le dice el vecino.
+Y Orlando le explica que no, que a él ni le va ni le viene, pero gracias al video puede
+detener las películas para estudiar los muebles.
+GALEANO, E. Disponivel em: http://elcajondesastre.blogcindarrio.com. Acesso em: 18 abr. 2012.
+No conto de Galeano, a expressão ni le va ni le viene encerra uma opinião a
+respeito de cinema que",
+"answerA": "Desconstrói a ideia central do conto sobre a importância das
+atividades de lazer.",
+"answerB": "Contradiz a percepção que o narrador tem em relação à
+profissão exercida por Orlando.",
+"answerC": "Revela o descaso do narrador com relação ao ofício
+desempenhado por Orlando.",
+"answerD": "Reforça a impressão do vizinho de que Orlando gostava de
+filmes.",
+"answerE": "Evidencia a extrema devoção do carpinteiro ao seu ofício.",
+"correctAnswer": "E",
+"correctAnswermessage": "No conto de Galeano, a expressão “ni le va ni le viene”
+evidencia a extrema devoção do carpinteiro ao seu ofício. Orlando explica que ele não é
+particularmente apaixonado pelo cinema, mas usa o vídeo para estudar os móveis nos
+filmes. Isso mostra que, mesmo em seu tempo livre, Orlando está focado em seu trabalho
+como carpinteiro. Portanto, a expressão destaca a dedicação de Orlando ao seu ofício.",
+"image": "",
+},
+{
+"question": "(Enem 2017) El virus del papiloma humano (HPV) también es un
+problema de hombres
+Para algunos hombres, el virus del papiloma humano (HPV) es algo muy lejano. Se
+olvidan de que ellos también se infectan y de que, al contagiarnos, nos están
+regalando un pasaporte mágico para el cáncer cérvico-uterino — segunda causa de
+muerte entre las mujeres de México —; incluso me ha tocado escuchar en boca de
+algunos de ellos que “sólo se trata de una infeccioncita”. Pues bien, el HPV también
+es un problema de hombres, no sólo porque propaga la infección entre la población
+femenina, sino también porque este virus produce otros problemas de salud tanto en
+hombres como en mujeres, incluyendo verrugas genitales y cáncer de boca y
+garganta que, si bien no son tan conocidos o alarmantes por su cantidad, como
+otros tipos de cáncer, también constituyen un riesgo. Por lo anterior, la Academia
+Americana de Pediatría decidió enfrentarse al HPV mediante vacunas que se ponen
+tanto a mujeres como hombres. Los especialistas afirman que la vacuna es más
+efectiva si se administra antes de que el niño se vuelva sexualmente activo, y
+responde mejor en el organismo de varones entre 9 y 15 años.
+ALBITER, K. Disponível em: http://vivirmexico.com. Acesso em: 10 jul. 2012 (adaptado).
+O texto aborda a temática do HPV. Ao discorrer sobre o contágio e a prevenção do
+papiloma humano, a autora informa aos leitores que esse vírus é",
+"answerA": "Estudado pela Academia Americana de Pediatria por seus
+efeitos em crianças.",
+"answerB": "Responsável pelo aumento de casos de câncer na população
+jovem mexicana.",
+"answerC": "Ignorado pelos homens por se restringir à população feminina.",
+"answerD": "Combatido por vacinas que devem ser aplicadas tanto em
+mulheres quanto em homens.",
+"answerE": "Classificado como um problema superável pela facilidade com
+que se enfrenta a infecção",
+"correctAnswer": "D",
+"correctAnswermessage": "De acordo com o texto, o vírus do papiloma humano (HPV) é
+combatido por vacinas que devem ser aplicadas tanto em mulheres quanto em homens. A
+autora destaca que a vacina é mais eficaz se administrada antes de o indivíduo se tornar
+sexualmente ativo, e responde melhor no organismo de homens entre 9 e 15 anos.
+Portanto, a autora informa aos leitores que a prevenção do HPV envolve a vacinação de
+ambos os sexos.",
+"image": "",
+},
+{
+"question": "(Enem 2017) Emotivo encuentro en la universidad pública
+El entonces mandatario uruguayo recibió el cariño de sus compatriotas residentes
+en Nueva York e informó sobre la evolución del país, las políticas de gobierno, los
+avances y cuentas pendientes. Como en ocasiones similares, se multiplicaron las
+muestras de respeto y emoción. “Una nación es un formidable sentimiento de un
+‘nosotros’”, dijo.
+Mujica comenzó su discurso relatando lo recogido de otras experiencias de
+comunidades en el exilio. “Muchos de ustedes echaron raíces, tienen hijos y no
+pueden cometer la agresión de descuajarle la vida. Tienen que cargar con esa
+nostalgia de ser de allá, pero estar acá”, dijo.
+“Estamos metidos en la lucha por mejorar las circunstancias, con el sueño de que
+las generaciones que vengan, puedan venir con más soltura, con más apoyo”, dijo el
+Presidente.
+Mujica se refirió a algunas críticas que reciben algunas políticas sociales. “Nos
+acusan de que damos sin contrapartida. Nos dicen ‘a la gente no hay que darle
+pescado, sino enseñarle a pescar’. Sí — razonó el Presidente —, pero cuando le
+afanaste la caña, le afanaste el bote, ¿qué le vas a pedir? Para atrás no arreglamos,
+arreglamos para adelante.”
+Disponível em: www.republica.com.uy. Acesso em: 26 set. 2013 (adaptado).
+No discurso dirigido aos compatriotas radicados em Nova York, o então presidente
+Mujica expressa o desejo de que os cidadãos que vivem no Uruguai.",
+"answerA": "Apoiem as políticas públicas afirmativas.",
+"answerB": "Integrem-se ao processo de globalização.",
+"answerC": "Cultivem o sentimento nacionalista.",
+"answerD": "Ofereçam uma contrapartida à nação.",
+"answerE": "Tenham melhores condições de vida.",
+"correctAnswer": "E",
+"correctAnswermessage": "No discurso, o então presidente Mujica expressa o desejo de
+que os cidadãos que vivem no Uruguai tenham melhores condições de vida. Ele fala sobre
+a luta para melhorar as circunstâncias, com o sonho de que as futuras gerações possam ter
+mais facilidade e apoio. Além disso, ele aborda as críticas a algumas políticas sociais,
+argumentando que o foco deve estar em melhorar as condições para o futuro. Portanto, o
+desejo expresso por Mujica é de melhorar as condições de vida para os cidadãos do
+Uruguai.",
+"image": "",
+},
+{
+"question": " (Enem 2017) El eclipse
+Cuando Fray Bartolomé Arrazola se sintió perdido aceptó que ya nada podría
+salvarlo. La selva poderosa de Guatemala lo había apresado, implacable y
+definitiva. Ante su ignorancia topográfica se sentó con tranquilidad a esperar la
+muerte. Al despertar se encontró rodeado por un grupo de indígenas de rostro
+impasible que se disponía a sacrificarlo ante un altar, un altar que a Bartolomé le
+pareció como el lecho en que descansaría, al fin, de sus temores, de su destino, de
+sí mismo. Tres años en el país le habían conferido un mediano dominio de las
+lenguas nativas. Intentó algo. Dijo algunas palabras que fueron comprendidas.
+Entonces floreció en él una idea que tuvo por digna de su talento y de su cultura
+universal y de su arduo conocimiento de Aristóteles. Recordó que para ese día se
+esperaba un eclipse total de sol. Y dispuso, en lo más íntimo, valerse de aquel
+conocimiento para engañar a sus opresores y salvar la vida. — Si me matáis — les
+dijo — puedo hacer que el sol se oscurezca en su altura. Los indígenas lo miraron
+fijamente y Bartolomé sorprendió la incredulidad en sus ojos. Vio que se produjo un
+pequeño consejo, y esperó confiado, no sin cierto desdén. Dos horas después el
+corazón de Fray Bartolomé Arrazola chorreaba su sangre vehemente sobre la
+piedra de los sacrificios (brillante bajo la opaca luz de un sol eclipsado), mientras
+uno de los indígenas recitaba sin ninguna inflexión de voz, sin prisa, una por una las
+infinitas fechas en que se producirían eclipses solares y lunares, que los astrónomos
+de la comunidad maya habían previsto y anotado en sus códices sin la valiosa
+ayuda de Aristóteles.
+MONTERROSO, A. Obras completas y otros cuentos. Bogotá: Norma, 1994 (adaptado).
+No texto, confrontam-se duas visões de mundo: a da cultura ocidental, representada
+por Frei Bartolomé Arrazola, e a da mítica pré-hispânica, representada pela
+comunidade indígena maia. Segundo a narrativa,",
+"answerA": "Os catequizadores espanhóis avalizam os saberes produzidos
+pelas comunidades indígenas hispano-americanas.",
+"answerB": "Os indígenas da comunidade maia mostram-se perplexos diante
+da superioridade do conhecimento aristotélico do frei espanhol.",
+"answerC": "O catequizador espanhol Arrazola apresenta-se adaptado às
+culturas autóctones, ao promover a interlocução entre os conhecimentos
+aristotélico e indígena.",
+"answerD": "O episódio representa, de forma neutra, o significado do
+conhecimento ancestral indígena, quando comparado ao conhecimento
+ocidental.",
+"answerE": "Os conhecimentos acadêmicos de Arrazola são insuficientes
+para salvá-lo da morte, ante a sabedoria astronômica da cultura maia.",
+"correctAnswer": "E",
+"correctAnswermessage": "Os conhecimentos acadêmicos de Arrazola são insuficientes
+para salvá-lo da morte, ante a sabedoria astronômica da cultura maia. A narrativa mostra
+que, apesar de seu conhecimento de Aristóteles e sua tentativa de usar um eclipse solar
+previsto para enganar os indígenas e salvar sua vida, Arrazola é incapaz de escapar de seu
+destino. Isso ocorre porque os indígenas, longe de serem enganados, têm seu próprio
+conhecimento astronômico avançado, que lhes permite prever eclipses solares e lunares
+sem a ajuda de Aristóteles. Portanto, o conhecimento acadêmico de Arrazola prova ser
+insuficiente em face da sabedoria astronômica da cultura maia.",
+"image": "",
+},
+{
+"question": " (Enem 2014) Emigrantes
+En todo emigrante existen dos posibles actitudes vitales: una la de considerar su
+experiencia como aventura pasajera, vivir mental y emocionalmente en la patria de
+origen, cultivando su nostalgia, y definir la realidad presente por comparación con el
+mundo que se ha dejado; la otra es vivir el presente tal como viene dado,
+proyectarlo en el futuro, cortar raíces y dominar nostalgias, sumergirse en la nueva
+cultura, aprenderla y asimilarla. El drama personal del emigrante reside en el hecho
+de que casi nunca es posible esa elección en términos absolutos y, al igual que el
+mestizo, se siente parte de dos mundos sin integrarse por completo en uno de ellos
+con exclusión del otro.
+DEL CASTILLO, G. C. América hispánica (1492-1892). In: DE LARA, M. T. Historia de España.
+Barcelona: Labor, 1985
+O texto apresenta uma reflexão sobre a condição do imigrante, o qual, para o autor,
+tem de lidar com o dilema da",
+"answerA": "Constatação de sua existência no entrelugar.",
+"answerB": "Instabilidade da vida em outro país.",
+"answerC": "Ausência de referências do passado.",
+"answerD": "Apropriação dos valores do outro.",
+"answerE": "Ruptura com o país de origem.",
+"correctAnswer": "A",
+"correctAnswermessage": "O texto apresenta uma reflexão sobre a condição do
+imigrante, que, para o autor, tem de lidar com o dilema da constatação de sua existência no
+entrelugar. O autor descreve a experiência do imigrante como sendo dividida entre dois
+mundos, sem se integrar completamente em nenhum deles. Isso sugere a ideia de um
+“entrelugar”, um espaço intermediário entre a pátria de origem e a nova cultura. Portanto, o
+dilema do imigrante é a constatação de sua existência nesse entrelugar.",
+"image": "",
+},
+{
+"question": "En un año de campaña paraguaya, he visto muchas cosas tristes…
+He visto la tierra, con su fertilidad incoercible y salvaje, sofocar al hombre, que
+arroja una semilla y obtiene cien plantas diferentes y no sabe cuál es la suya. He
+visto los viejos caminos que abrió la tiranía devorados por la vegetación, desleídos
+por las innundaciones, borrados por el abandono.
+BARRET, R. Lo que he visto. Cuba: XX Feria Internacional del Libro de la Habana, 2011.
+Rafael Barret nasceu na Espanha e, ainda jovem, foi viver no Paraguai.
+O fragmento do texto Lo que hai visto revela um pouco da percepção do escritor
+sobre a realidade paraguaia, marcada, em essência, pelo(a)",
+"answerA": "Desalento frente às adversidades naturais.",
+"answerB": "Amplo conhecimento da flora paraguaia.",
+"answerC": "Impossibilidade de cultivo da terra.",
+"answerD": "Necessidade de se construírem novos caminhos.",
+"answerE": "Despreparo do agricultor no trato com a terra.",
+"correctAnswer": "A",
+"correctAnswermessage": "O fragmento do texto “Lo que hai visto” revela um pouco da
+percepção do escritor sobre a realidade paraguaia, marcada, em essência, pelo desalento
+frente às adversidades naturais. O autor descreve a terra com sua fertilidade incontrolável e
+selvagem sufocando o homem, e os antigos caminhos abertos pela tirania sendo devorados
+pela vegetação, diluídos pelas inundações e apagados pelo abandono. Essas imagens
+pintam um quadro de desespero diante das adversidades naturais.",
+"image": "",
+},
+{
+"question": "Aunque me cuesta mucho trabajo y me hace sudar la gota gorda, y,
+como todo escritor, siento a veces la amenaza de la parálisis, de la sequía de la
+imaginación, nada me ha hecho gozar en la vida tanto como pasarme los meses y
+los años construyendo una historia, desde su incierto despuntar, esa imagen que la
+memoria almacenó de alguna experiencia vivida, que se volvió un desasosiego, un
+entusiasmo, un fantaseo que germinó luego en un proyecto y en la decisión de
+intentar convertir esa niebla agitada de fantasmas en una historia. “Escribir es una
+manera de vivir”, dijo Flaubert.
+Discurso de Mario Vargas Llosa al recibir el Premio Nobel de Literatura 2010.
+Disponível em: www.nobelprize.org. Acesso em: 7 maio 2014 (fragmento)
+O trecho apresentado trata do fazer literário, a partir da perspectiva de Vargas Llosa.
+Com base no fragmento “me hace sudar la gota gorda”, infere-se que o artifício da
+escritura, para o escritor,",
+"answerA": "Ativa a memória e a fantasia.",
+"answerB": "Baseia-se na imaginação inspiradora.",
+"answerC": "Fundamenta-se nas experiências de vida.",
+"answerD": "Requer entusiasmo e motivação.",
+"answerE": "Demanda expressiva dedicação.",
+"correctAnswer": "E",
+"correctAnswermessage": "Com base no fragmento “me hace sudar la gota gorda”,
+infere-se que o artifício da escritura, para o escritor, demanda expressiva dedicação. A
+expressão “sudar la gota gorda” é uma frase idiomática em espanhol que significa trabalhar
+duro ou se esforçar muito. Portanto, o escritor está destacando a quantidade significativa de
+esforço e dedicação que a escrita requer dele.",
+"image": "",
+},
+{
+"question": "Pero un dia, le fue presentado a Cortés un tributo bien distinto: un
+obsequio de veinte esclavas llegó hasta el campamento español y entre ellas,
+Cortés escogió a una.
+Descrita por el cronista de la expedición, Bernal Días del Castillo, como mujer de
+“buen parecer y entremetida y desenvuelta”, el nombre indígena de esta mujer era
+Malintzin, indicativo de que había nacido bajo signos de contienda y desventura.
+Sus padres la vendieron como esclava; los españoles la llamaron doña Marina, pero
+su pueblo la llamó la Malinche, la mujer del conquistador, la traidora a los indios.
+Pero con cualquiera de estos nombres, la mujer conoció un extraordinario destino.
+Se convirtió en “mi lengua”, pues Cortés la hizo su intérprete y amante, la lengua
+que habría de guiarle a lo largo y alto del Imperio azteca, demonstrando que algo
+estaba podrido en el reino de Moctezuma, que en efecto existía gran descontento y
+que el Imperio tenía pies de barro.
+FUENTES, C. El espejo enterrado. Ciudad de México: FCE, 1992 (fragmento).
+Malinche, ou Malintzin, foi uma figura chave na história da conquista espanhola na
+América, ao atuar como",
+"answerA": "Intérprete do conquistador, possibilitando-lhe conhecer as
+fragilidades do Império.",
+"answerB": "Escrava dos espanhóis, colocando-se a serviço dos objetivos da
+Coroa.",
+"answerC": "Amante do conquistador, dando origem à miscigenação étnica.",
+"answerD": "Voz do seu povo, defendendo os interesses políticos do Império
+asteca.",
+"answerE": "Maldição dos astecas, infundindo a corrupção no governo de
+Montezuma.",
+"correctAnswer": "A",
+"correctAnswermessage": "Malinche, ou Malintzin, foi uma figura chave na história da
+conquista espanhola na América, ao atuar como intérprete do conquistador,
+possibilitando-lhe conhecer as fragilidades do Império. Ela foi escolhida por Cortés entre um
+grupo de escravas e se tornou sua intérprete e amante. Como intérprete, ela desempenhou
+um papel crucial ao permitir que Cortés entendesse a situação política e social do Império
+Asteca, incluindo seu descontentamento e suas fraquezas. Portanto, a contribuição mais
+significativa de Malinche para a conquista espanhola na América foi seu papel como
+intérprete.",
+"image": "",
+},
+{
+"question": " Pensar la lengua del siglo XXI
+Aceptada la dicotomía entre “español general” académico y “español periférico”
+americano, la capacidad financiera de la Real Academia, apoyada por la corona y
+las grandes empresas transnacionales españolas, no promueve la conservación de
+la unidad, sino la unificación del español, dirigida e impuesta desde España (la
+Fundación Español Urgente: Fundeu). Unidad y unificación no son lo mismo: la
+unidad ha existido siempre y com ella la variedad de la lengua, riqueza suprema de
+nuestras culturas nacionales; la unificación lleva a la pérdida de las diferencias
+culturales, que nutren al ser humano y son tan importantes como la diversidad
+biológica de la Tierra.
+Culturas nacionales: desde que nacieron los primeros criollos, mestizos y mulatos
+en el continente hispanoamericano, las diferencias de colonización, las improntas
+que dejaron en las nacientes sociedades americanas los pueblos aborígenes, la
+explotación de las riquezas naturales, las redes comerciales coloniales fueron
+creando culturas propias, diferentes entre sí, aunque con el fondo común de la
+tradición española. Después de las independencias, cuando se instituyeron nuestras
+naciones, bajo diferentes influencias, ya francesas, ya inglesas; cuando los
+inmigrantes italianos, sobre todo, dieron su pauta a Argentina, Uruguay o
+Venezuela, esas culturas nacionales se consolidaron y con ellas su español, pues la
+lengua es, ante todo, constituyente. Así, el español actual de España no es sino una
+más de las lenguas nacionales del mundo hispánico. El español actual es el
+conjunto de veintidós españoles nacionales, que tienen sus propias características;
+ninguno vale más que otro. La lengua del siglo XXI es, por eso, una lengua
+pluricéntrica.
+LARA, L.F. Disponível em: www.revistaenie.clarin.com. Acesso em: 25 fev. 2013.
+O texto aborda a questão da língua espanhola no século XXI e tem como função
+apontar que",
+"answerA": "As especificidades culturais rompem com a unidade hispânica.",
+"answerB": "As variedades do espanhol têm igual relevância linguística e
+cultural.",
+"answerC": "A unidade linguística do espanhol fortalece a identidade cultural
+hispânica.",
+"answerD": "A consolidação das diferenças da língua prejudica sua projeção
+mundial.",
+"answerE": "A unificação da língua enriquece a competência linguística dos
+falantes.",
+"correctAnswer": "B",
+"correctAnswermessage": "O texto aborda a questão da língua espanhola no século XXI e
+tem como função apontar que as variedades do espanhol têm igual relevância linguística e
+cultural. O autor argumenta que o “español actual” é composto por vinte e duas “españoles
+nacionales”, cada um com suas próprias características, e nenhum é mais valioso do que o
+outro. Portanto, a diversidade do espanhol é vista como uma força, não uma fraqueza, e
+todas as variedades da língua têm igual importância.",
+"image": "",
+},
+{
+"question": "Excavarán plaza ceremonial del frontis norte de huaca de la Luna
+Trujillo, feb. 25 (ANDINA). Tras limpiar los escombros del saqueo colonial y de las
+excavaciones de los últimos años en huaca de la Luna, este año se intervendrá la
+plaza ceremonial del frontis norte, en donde se ubica la gran fachada del sitio
+arqueológico ubicado en Trujillo, La Libertad, informaron hoy fuentes culturales.
+Después de varias semanas de trabajo, el material fue sacado del sitio arqueológico
+para poder apreciar mejor la extensión y forma del patio que, según las
+investigaciones, sirvió hace unos 1 500 como escenario de extraños rituales.
+El codirector del Proyecto Arqueológico Huacas del Sol y la Luna, Ricardo Morales
+Gamarra, sostuvo que con la zona limpia de escombros, los visitantes conocerán la
+verdadera proporción de la imponente fachada, tal y como la conocieron los
+moches. Por su parte, el arqueólogo Santiago Uceda, también codirector del
+proyecto, dijo que las excavaciones se iniciarán este año para determinar qué otros
+elementos componían dicha área. “Hace poco nos sorprendió encontrar un altar
+semicircular escalonado. Era algo que no esperábamos. Por lo tanto, es difícil saber
+qué es lo que aún está escondido en la zona que exploraremos”, señaló Uceda a la
+Agencia Andina.
+La huaca de la Luna se localiza en el distrito trujillano de Moche. Es una pirámide de
+adobe adornada, en sus murales, con impresionantes imágenes mitológicas,
+muchas de ellas en alto relieve.
+Disponível em: www.andina.com.pe. Acesso em: 23 fev. 2012 (adaptado).
+O texto apresenta informações sobre um futuro trabalho de escavação de um sítio
+arqueológico peruano. Sua leitura permite inferir que",
+"answerA": "A pirâmide huaca de la Luna foi construída durante o período
+colonial peruano.",
+"answerB": "O sítio arqueológico contém um altar semicircular bastante
+deteriorado.",
+"answerC": "A pirâmide huaca de la Luna foi construída com cerâmica.",
+"answerD": "O sítio arqueológico possui um pátio que foi palco de rituais.",
+"answerE": "O sítio arqueológico mantém escombros deixados pela
+civilização moche.",
+"correctAnswer": "D",
+"correctAnswermessage": "O sítio arqueológico possui um pátio que foi palco de rituais.
+De acordo com o texto, após várias semanas de trabalho para limpar os escombros do
+local, foi possível apreciar melhor a extensão e a forma do pátio, que, segundo as
+pesquisas, serviu como cenário de estranhos rituais há cerca de 1500 anos. Portanto, a
+leitura do texto permite inferir que o sítio arqueológico possui um pátio que foi palco de
+rituais.",
+"image": "",
+},
+{
+"question": "Nuestra comarca del mundo, que hoy llamamos América Latina
+perfeccionó sus funciones. Este ya no es el reino de las maravillas donde la realidad
+derrotaba a la fábula y la imaginación era humillada por los troféus de la conquista,
+los yacimientos de oro y las montañas de plata. Pero la región sigue trabajando de
+sirvienta. Es América Latina, la región de las venas abiertas. Desde el
+descubrimiento hasta nuestros días, todo se ha trasmutado siempre en capital
+europeo o, más tarde, norteamericano, y como tal se ha acumulado y se acumula en
+los lejanos centros del poder. Todo: la tierra, sus frutos y sus profundidades ricas en
+minerales, los hombres y su capacidad de trabajo y de consumo, los recursos
+naturales y los recursos humanos. El modo de producción y la estructura de clases
+de cada lugar han sido sucesivamente determinados, desde fuera, por su
+incorporación al engranaje universal del capitalismo. Nuestra derrota estuvo siempre
+implícita en la victoria ajena; nuestra riqueza ha generado siempre nuestra pobreza
+para alimentar la prosperidad de otros: los imperios y sus caporales nativos.
+GALEANO, E. Las venas abiertas de América Latina. Buenos Aires: Siglo Veintiuno Argentina, 2010
+(adaptado).
+A partir da leitura do texto, infere-se que, ao longo da história da América Latina,",
+"answerA": "Suas relações com as nações exploradoras sempre se
+caracterizaram por uma rede de dependências.",
+"answerB": "Seus países sempre foram explorados pelas mesmas nações
+desde o início do processo de colonização.",
+"answerC": "Sua sociedade sempre resistiu à aceitação do capitalismo
+imposto pelo capital estrangeiro.",
+"answerD": "Suas riquezas sempre foram acumuladas longe dos centros de
+poder.",
+"answerE": "Suas riquezas nunca serviram ao enriquecimento das elites
+locais.",
+"correctAnswer": "A",
+"correctAnswermessage": "A partir da leitura do texto, infere-se que, ao longo da história
+da América Latina, suas relações com as nações exploradoras sempre se caracterizaram
+por uma rede de dependências. O texto descreve como a América Latina tem sido
+explorada por potências estrangeiras desde o seu descobrimento, com suas riquezas
+naturais e humanas sendo transformadas em capital europeu e, mais tarde,
+norte-americano. Isso sugere uma relação de dependência entre a América Latina e essas
+nações exploradoras. Além disso, o texto menciona que a estrutura de classes e o modo de
+produção de cada lugar na América Latina foram determinados de fora, refletindo a
+influência externa e a dependência dessas nações exploradoras.",
+"image": "",
+},
+{
+"question": "Las Malvinas son nuestras
+Sí, las islas son nuestras. Esta afirmación no se basa en sentimientos nacionalistas,
+sino en normas y princípios del derecho internacional que, si bien pueden suscitar
+interpretaciones en contrario por parte de los británicos, tienen la fuerza suficiente
+para imponerse.
+Los británicos optaron por sostener el derecho de autodeterminación de los
+habitantes de las islas, invocando la resolución 1514 de las Naciones Unidas, que
+acordó a los pueblos coloniales el derecho de independizarse de los Estados
+colonialistas. Pero esta tesitura es también indefendible. La citada resolución se
+aplica a los casos de pueblos sojuzgados por una potencia extranjera, que no es el
+caso de Malvinas, donde Gran Bretaña procedió a expulsar a los argentinos que
+residían en las islas, reemplazándolos por súbditos de la corona que pasaron a ser
+kelpers y luego ciudadanos británicos. Además, según surge de la misma
+resolución, el principio de autodeterminación no es de aplicación cuando afecta la
+integridad territorial de un país.
+Finalmente, en cuanto a qué haría la Argentina con los habitantes británicos de las
+islas en caso de ser recuperadas, la respuesta se encuentra en la cláusula
+transitória primera de la Constitución Nacional sancionada por la reforma de 1994,
+que impone respetar el modo de vida de los isleños, lo que además significa
+respetar sus intereses.
+MENEM, E. Disponível em: www.lanacion.com.ar. Acesso em: 18 fev. 2012 (adaptado).
+O texto apresenta uma opinião em relação à disputa entre e a Argentina e o Reino
+Unido pela soberania sobre as Ilhas Malvinas, ocupadas pelo Reino Unido em 1833.
+O autor dessa opinião apoia a reclamação argentina desse arquipélago,
+argumentando que",
+"answerA": "A descolonização das ilhas em disputa está contemplada na lei
+comum britânica.",
+"answerB": "As Nações Unidas estão desacreditadas devido à ambiguidade
+das suas resoluções.",
+"answerC": "O princípio de autodeterminação carece de aplicabilidade no
+caso das Ilhas Malvinas.",
+"answerD": "A população inglesa compreende a reivindicação nacionalista da
+administração argentina.",
+"answerE": "Os cidadãos de origem britânica assentados nas ilhas seriam
+repatriados para a Inglaterra.",
+"correctAnswer": "C",
+"correctAnswermessage": "O autor argumenta que o princípio de autodeterminação
+carece de aplicabilidade no caso das Ilhas Malvinas. Ele menciona que os britânicos
+optaram por defender o direito de autodeterminação dos habitantes das ilhas, invocando a
+resolução 1514 das Nações Unidas. No entanto, o autor considera essa posição
+indefensável, pois a resolução se aplica a casos de povos subjugados por uma potência
+estrangeira, o que não é o caso das Malvinas. Além disso, ele afirma que o princípio de
+autodeterminação não se aplica quando afeta a integridade territorial de um país.",
+"image": "",
+},
+{
+"question": " Bienvenido a Brasília
+El Gobierno de Brasil, por medio del Ministerio de la Cultura y del Instituto del
+Patrimonio Histórico y Artístico Nacional (IPHAN), da la bienvenida a los
+participantes de la 34ª Sesión del Comité del Patrimonio Mundial, encuentro
+realizado por la Organización de las Naciones Unidas para la Educación, la Ciencia
+y la Cultura (UNESCO).
+Respaldado por la Convención del Patrimonio Mundial, de 1972, el Comité reúne en
+su 34ª sesión más de 180 delegaciones nacionales para deliberar sobre las nuevas
+candidaturas y el estado de conservación y de riesgo de los bienes ya declarados
+Patrimonio Mundial, con base en los análisis del Consejo Internacional de
+Monumentos y Sitios (Icomos), del Centro Internacional para el Estudio de la
+Preservación y la Restauración del Patrimonio Cultural (ICCROM) y de la Unión
+Internacional para la Conservación de la Naturaleza (IUCN).
+(Disponível em: http://www.34whc.brasilia2010.org.br. Acesso em: 28 jul. 2010)
+O Comitê do Patrimônio Mundial reúne-se regularmente para deliberar sobre ações
+que visem à conservação e à preservação do patrimônio mundial. Entre as tarefas
+atribuídas às delegações nacionais que participaram da 34ª Sessão do Comitê do
+Patrimônio Mundial, destaca-se a:",
+"answerA": "Participação em reuniões do Conselho Internacional de
+Monumentos e Sítios.",
+"answerB": "Realização da cerimônia de recepção da Convenção do
+Patrimônio Mundial.",
+"answerC": "Organização das análises feitas pelo Ministério da Cultura
+brasileiro.",
+"answerD": "Discussão sobre o estado de conservação dos bens já
+declarados patrimônios mundiais.",
+"answerE": "Estruturação da próxima reunião do Comitê do Patrimônio
+Mundial.",
+"correctAnswer": "D",
+"correctAnswermessage": "Entre as tarefas atribuídas às delegações nacionais que
+participaram da 34ª Sessão do Comitê do Patrimônio Mundial, destaca-se a discussão
+sobre o estado de conservação dos bens já declarados patrimônios mundiais. O texto
+menciona que o Comitê se reúne para deliberar sobre as novas candidaturas e o estado de
+conservação e de risco dos bens já declarados Patrimônio Mundial. Portanto, uma das
+principais tarefas das delegações nacionais é discutir o estado de conservação desses
+bens.",
+"image": "",
+},
+{
+"question": "El Tango
+Ya sea como danza, música, poesía o cabal expresión de una filosofía de vida, el
+tango posee una larga y valiosa trayectoria, jalonada de encuentros y
+desencuentros, amores y odios, nacida desde lo más hondo de la historia argentina.
+El nuevo ambiente es el cabaret, su nuevo cultor la clase media porteña, que
+ameniza sus momentos de diversión con nuevas composiciones, sustituyendo el
+carácter malevo del tango primitivo por una nueva poesía más acorde con las
+concepciones estéticas provenientes de Londres y París.
+Ya en la década del ‘20 el tango se anima incluso a traspasar las fronteras del país,
+recalando en lujosos salones parisinos donde es aclamado por públicos selectos
+que adhieren entusiastas a la sensualidad del nuevo baile. Ya no es privativo de los
+bajos fondos porteños; ahora se escucha y se baila en salones elegantes, clubs y
+casas particulares.
+El tango revive con juveniles fuerzas en ajironadas versiones de grupos rockeros,
+presentaciones en elegantes reductos de San Telmo, Barracas y La Boca y películas
+foráneas que lo divulgan por el mundo entero.
+(Disponível em: http://www.elpolvorin.over-blog.es. Acesso em: 22 jun. 2011 - adaptado)
+Sabendo-se que a produção cultural de um país pode influenciar, retratar ou,
+inclusive, ser reflexo de acontecimentos de sua história, o tango, dentro do contexto
+histórico argentino, é reconhecido por:",
+"answerA": "Manter-se inalterado ao longo de sua história no país.",
+"answerB": "Influenciar os subúrbios, sem chegar a outras regiões.",
+"answerC": "Sobreviver e se difundir, ultrapassando as fronteiras do país.",
+"answerD": "Manifestar seu valor primitivo nas diferentes camadas sociais.",
+"answerE": "Ignorar a influência de países europeus, como Inglaterra e
+França.",
+"correctAnswer": "C",
+"correctAnswermessage": "Dentro do contexto histórico argentino, o tango é reconhecido
+por sobreviver e se difundir, ultrapassando as fronteiras do país. O texto descreve como o
+tango, nascido na Argentina, se transformou ao longo do tempo, passando de um caráter
+“malevo” primitivo a uma nova poesia mais alinhada com as concepções estéticas de
+Londres e Paris. Além disso, na década de 1920, o tango começou a cruzar as fronteiras do
+país, sendo aclamado em salões luxuosos de Paris e sendo ouvido e dançado em salões
+elegantes, clubes e casas particulares. Portanto, o tango é reconhecido por sua capacidade
+de sobreviver e se difundir além das fronteiras da Argentina.",
+"image": "",
+},
+  // Adicione mais questões aqui
+]

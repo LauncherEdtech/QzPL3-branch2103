@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Qual é a capital do Brasil?"
+    "r1": "A) Brasília", 
+    "r2": "B) São Paulo",
+    "r3": "C) Rio de Janeiro",
+    "r4": "D) Belo Horizonte",
+    "r5": "E) Salvador",
+    "correctAnswer": "A"
+  },
+  {"question": "Qual é a capital do Brasil?"
+    "r1": "A) Brasília", 
+    "r2": "B) São Paulo",
+    "r3": "C) Rio de Janeiro",
+    "r4": "D) Belo Horizonte",
+    "r5": "E) Salvador",
+    "correctAnswer": "A"
+  },
+  // Adicione mais questões aqui
+]
